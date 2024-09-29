@@ -10,10 +10,11 @@ import markdown
 
 
 # Constants
-DISTANCE_THRESHOLD = 15
-STOP_THRESHOLD = 20
+DISTANCE_THRESHOLD = 30
+STOP_THRESHOLD = 10
 COLLISION_DISTANCE_THRESHOLD = 250
 OUT_OF_ARENA_THRESHOLD = 60
+FLOW_MAGNITUDE = 2
 
 # Load the YOLO model
 MODEL = YOLO("weight/best_yolov10n_dran_vs_wizard.pt")
@@ -100,17 +101,17 @@ def detect_collisions(bboxes):
         
     return False # no collision
 
-def has_beyblade_stopped(results, bboxes, frame_count, fps):
-    """
-    Check if any of the Beyblades has stopped.
 
-    If a center of a Beyblade only moves a small distance less than DISTANCE_THRESHOLD for STOP_THRESHOLD frames
-    AND
-    To ensure the Beyblade is not spinning in place, we also check the aspect ratio of the bounding box.
-    If the aspect ratio of the bounding box is not within 0.85 and 1.2 for STOP_THRESHOLD frames,
+def has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps):
+    """
+    Check if any of the Beyblades has stopped using optical flow.
+
+    If the average motion of the Beyblade is below a certain threshold for STOP_THRESHOLD frames,
     it is considered stopped.
-    
+
     Args:
+        frame: Current video frame.
+        prev_frame: Previous video frame for optical flow calculation.
         results: Detected objects with names (list).
         bboxes: List of bounding boxes for each detected object.
         frame_count: Current frame count.
@@ -118,57 +119,58 @@ def has_beyblade_stopped(results, bboxes, frame_count, fps):
     """
     global loser_frame, winner_frame
     
+
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
+    # Calculate optical flow using Lucas-Kanade method
+    flow = cv2.calcOpticalFlowFarneback(prev_frame, gray, None, 0.5, 3, 15, 3, 5, 1.2, 0)
+
     for i, bbox in enumerate(bboxes):
         # Calculate the center of the bounding box
         center = calculate_center(bbox)
         
-        # Check distance moved by the Beyblade center
-        if previous_centers[i] is not None:
-            distance = np.linalg.norm(center - previous_centers[i])
-            if distance < DISTANCE_THRESHOLD:
-                distance_count_frames[i] += 1
-            else:
-                distance_count_frames[i] = 0
-        previous_centers[i] = center
-        
-        # Calculate the aspect ratio of the bounding box
+        # Calculate the average flow vector for the bounding box
         x1, y1, x2, y2 = map(int, bbox)
-        width, height = x2 - x1, y2 - y1
-        aspect_ratio = width / height
+        flow_region = flow[y1:y2, x1:x2]
+        
+        # Calculate the mean flow in the bounding box
+        mean_flow = np.mean(flow_region, axis=(0, 1))
+        flow_magnitude = np.linalg.norm(mean_flow)
+        print(flow_magnitude)
 
         # Identify Beyblade type based on detection
         beyblade_type = results[0].names[i]
+        #print(f"Beyblade type {i}: {beyblade_type}")
         beyblade_idx = 0 if beyblade_type == battle_data["type1"] else 1
         
-        # Check aspect ratio consistency to identify if the Beyblade has stopped spinning
-        if aspect_ratio < 0.9 or aspect_ratio > 1.1:
-            aspect_ratio_frames[beyblade_idx] += 1
+        # Check if the flow magnitude is below the stopping threshold
+        if flow_magnitude < FLOW_MAGNITUDE:
+            distance_count_frames[beyblade_idx] += 1
         else:
-            aspect_ratio_frames[beyblade_idx] = 0
+            distance_count_frames[beyblade_idx] = 0
 
         # Determine if the Beyblade has stopped
-        if (
-            distance_count_frames[beyblade_idx] >= STOP_THRESHOLD and 
-            aspect_ratio_frames[beyblade_idx] >= STOP_THRESHOLD
-            ):
-            
-            if (stopped_index[0] is not None and beyblade_type == battle_data["winner"] ): # for winner beyblade
+        if distance_count_frames[beyblade_idx] >= STOP_THRESHOLD:
+            if (stopped_index[0] is not None and stopped_index[1] is None and beyblade_type == battle_data["winner"]):
                 print(f"Winner beyblade {beyblade_type} stopped spinning.")
                 stopped_index[1] = beyblade_idx
                 winner_frame = frame_count - STOP_THRESHOLD
                 battle_data["winner_spinning_time"] = winner_frame / fps
                 status[beyblade_idx] = "Stopped"
             
-            if stopped_index[0] is None and battle_data["game_over_time"] is None:  # for loser beyblade
+            if stopped_index[0] is None and battle_data["game_over_time"] is None:
                 print(f"Loser beyblade {beyblade_type} stopped spinning.")
                 stopped_index[0] = beyblade_idx
                 loser_frame = frame_count - STOP_THRESHOLD
-                battle_data["winner"] = battle_data["type1"] if beyblade_idx == 1 else battle_data["type2"]
+                battle_data["winner"] = battle_data["type1"] if beyblade_idx == 0 else battle_data["type2"]
                 battle_data["win_reason"] = "Opponent stopped spinning"
                 battle_data["game_over_time"] = loser_frame / fps
                 status[beyblade_idx] = "Stopped"
     
     return status
+
+
+
 
 def has_beyblade_out_of_arena(results, bboxes, frame_count, fps):
     """
@@ -185,9 +187,9 @@ def has_beyblade_out_of_arena(results, bboxes, frame_count, fps):
     START_TOLERATE = 60 # 2 seconds
     if frame_count > START_TOLERATE and len(bboxes) <= 1:
         not_detected_frames += 1
-        print(f"Opponent not detected for {not_detected_frames} frames.")
+        #print(f"Opponent not detected for {not_detected_frames} frames.")
         if not_detected_frames > OUT_OF_ARENA_THRESHOLD and battle_data["game_over_time"] is None:
-            print("Opponent out of the arena.")
+            #print("Opponent out of the arena.")
             loser_frame = frame_count - (OUT_OF_ARENA_THRESHOLD+START_TOLERATE)
             if len(results[0].boxes.cls) > 0:
                 class_index = int(results[0].boxes.cls[0])
@@ -230,7 +232,7 @@ def extract_video_segment(input_video_path, output_video_path, start_frame, end_
     cap.release()
     out.release()
 
-    print(f"Extracted segment saved to {output_video_path}")
+    #print(f"Extracted segment saved to {output_video_path}")
 
 def analyze_battle_using_LLM():
     """
@@ -279,9 +281,8 @@ def analyze_battle_using_LLM():
 # Include the main video processing logic in a function
 def process_video(video_path):
     global battle_data, battle_log, analysis_response
-    # Your existing main function logic goes here
-    # Change VIDEO_PATH to video_path argument
-    
+
+    # Open the video file
     cap = cv2.VideoCapture(video_path)
     width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
     height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
@@ -293,6 +294,14 @@ def process_video(video_path):
 
     frame_count = 0
 
+    # Read the first frame and initialize prev_frame
+    ret, first_frame = cap.read()
+    if not ret:
+        print("Error: Could not read the first frame.")
+        return
+
+    prev_frame = cv2.cvtColor(first_frame, cv2.COLOR_BGR2GRAY)  # Convert first frame to grayscale
+
     while cap.isOpened():
         success, frame = cap.read()
         if not success:
@@ -302,17 +311,17 @@ def process_video(video_path):
         results = MODEL.track(frame, conf=0.7, max_det=2, verbose=False, tracker="botsort.yaml")
         annotated_frame = results[0].plot()
         bboxes = results[0].boxes.xyxy.cpu().numpy()
-        
-        if battle_data["type1"] is None and len(results[0].names) > 0:
-            battle_data["type1"] = results[0].names[0]
-        if battle_data["type2"] is None and len(results[0].names) > 1:
+
+ 
+        if battle_data["type1"] is None and battle_data["type2"] is None and len(results[0].names) > 1:
             battle_data["type2"] = results[0].names[1]
-            
-        # Log tracking points and collision status
+            battle_data["type1"] = results[0].names[0]
+
+        # Detect collisions and check for out-of-arena condition
         beyblade_positions = [calculate_center(bboxes[i]) for i in range(len(bboxes))]
         collision_status = detect_collisions(bboxes)
         has_beyblade_out_of_arena(results, bboxes, frame_count, fps)
-        beyblade_status = has_beyblade_stopped(results, bboxes, frame_count, fps)
+        beyblade_status = has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps)
 
         # Update battle log
         battle_log["frame"].append(frame_count)
@@ -323,10 +332,16 @@ def process_video(video_path):
         battle_log["collision_status"].append(collision_status)
         battle_log["beyblade1_status"].append(beyblade_status[0])
         battle_log["beyblade2_status"].append(beyblade_status[1])
+
         out.write(annotated_frame)
+        
+        gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+        
+        # Update prev_frame to the current frame for the next iteration
+        prev_frame = gray_frame.copy()
 
     if battle_data["winner_spinning_time"] is None:
-        print("Winner beyblade not stopped spinning.")
+        #print("Winner beyblade not stopped spinning.")
         battle_data["winner_spinning_time"] = frame_count / fps
 
     battle_data["collision_count_approx"] = collision_count
@@ -343,14 +358,15 @@ def process_video(video_path):
     df_battle_log.to_csv("output/battle_log.csv", index=False)
 
     # Save battle data
-    print(battle_data)
+    #print(battle_data)
     df_battle_data = pd.DataFrame([battle_data])
     df_battle_data.to_csv('output/battle_data_result.csv', index=False)
 
     cap.release()
     out.release()
-    
+
     analysis_response = markdown.markdown(analyze_battle_using_LLM())
+
     
 
 @app.route('/')

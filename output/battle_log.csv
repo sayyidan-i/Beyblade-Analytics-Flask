@@ -103,506 +103,505 @@ frame,beyblade1,beyblade2,beyblade1_position,beyblade2_position,collision_status
 102,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
 103,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
 104,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-105,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-106,Dran Buster 1-60A,wizard rod 5-70db,[     1485.5       647.5],,,Spinning,Spinning
-107,Dran Buster 1-60A,wizard rod 5-70db,[        804       123.5],[       1420         799],False,Spinning,Spinning
-108,Dran Buster 1-60A,wizard rod 5-70db,[      953.5       252.5],,,Spinning,Spinning
-109,Dran Buster 1-60A,wizard rod 5-70db,[     1133.5       495.5],,,Spinning,Spinning
-110,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-111,Dran Buster 1-60A,wizard rod 5-70db,[     1053.5       838.5],[       1348       342.5],False,Spinning,Spinning
-112,Dran Buster 1-60A,wizard rod 5-70db,[     1564.5         260],,,Spinning,Spinning
-113,Dran Buster 1-60A,wizard rod 5-70db,[     1638.5         251],[      885.5         895],False,Spinning,Spinning
-114,Dran Buster 1-60A,wizard rod 5-70db,[      809.5         964],[     1773.5         272],False,Spinning,Spinning
-115,Dran Buster 1-60A,wizard rod 5-70db,[     1944.5       312.5],,,Spinning,Spinning
-116,Dran Buster 1-60A,wizard rod 5-70db,[     1942.5         309],,,Spinning,Spinning
-117,Dran Buster 1-60A,wizard rod 5-70db,[     1918.5         344],[      696.5       883.5],False,Spinning,Spinning
-118,Dran Buster 1-60A,wizard rod 5-70db,[      661.5         911],[       1860         455],False,Spinning,Spinning
-119,Dran Buster 1-60A,wizard rod 5-70db,[     1841.5         496],[        653       937.5],False,Spinning,Spinning
-120,Dran Buster 1-60A,wizard rod 5-70db,[       1797         507],[        658         915],False,Spinning,Spinning
-121,Dran Buster 1-60A,wizard rod 5-70db,[        682       908.5],[       1719       590.5],False,Spinning,Spinning
-122,Dran Buster 1-60A,wizard rod 5-70db,[     1690.5       615.5],,,Spinning,Spinning
-123,Dran Buster 1-60A,wizard rod 5-70db,[     1626.5         638],[      726.5         924],False,Spinning,Spinning
-124,Dran Buster 1-60A,wizard rod 5-70db,[        789         941],,,Spinning,Spinning
-125,Dran Buster 1-60A,wizard rod 5-70db,[     1489.5         688],[      810.5       947.5],False,Spinning,Spinning
-126,Dran Buster 1-60A,wizard rod 5-70db,[       1422         683],[      870.5       953.5],False,Spinning,Spinning
-127,Dran Buster 1-60A,wizard rod 5-70db,[       1327       684.5],[      994.5       977.5],False,Spinning,Spinning
-128,Dran Buster 1-60A,wizard rod 5-70db,[     1050.5         981],,,Spinning,Spinning
-129,Dran Buster 1-60A,wizard rod 5-70db,[       1242         662],[     1153.5       979.5],False,Spinning,Spinning
-130,Dran Buster 1-60A,wizard rod 5-70db,[       1185       628.5],[     1335.5       969.5],False,Spinning,Spinning
-131,Dran Buster 1-60A,wizard rod 5-70db,[       1171       618.5],,,Spinning,Spinning
-132,Dran Buster 1-60A,wizard rod 5-70db,[     1144.5         592],[     1557.5       944.5],False,Spinning,Spinning
-133,Dran Buster 1-60A,wizard rod 5-70db,[       1135       556.5],[       1749       830.5],False,Spinning,Spinning
-134,Dran Buster 1-60A,wizard rod 5-70db,[       1135         541],,,Spinning,Spinning
-135,Dran Buster 1-60A,wizard rod 5-70db,[       1887       748.5],,,Spinning,Spinning
-136,Dran Buster 1-60A,wizard rod 5-70db,[       1966         693],[     1148.5         478],False,Spinning,Spinning
-137,Dran Buster 1-60A,wizard rod 5-70db,[     1153.5         466],,,Spinning,Spinning
-138,Dran Buster 1-60A,wizard rod 5-70db,[     1162.5       438.5],[       1977       664.5],False,Spinning,Spinning
-139,Dran Buster 1-60A,wizard rod 5-70db,[     1167.5         402],[       1942         648],False,Spinning,Spinning
-140,Dran Buster 1-60A,wizard rod 5-70db,[     1165.5         396],[       1933       640.5],False,Spinning,Spinning
-141,Dran Buster 1-60A,wizard rod 5-70db,[       1161       378.5],[     1899.5         632],False,Spinning,Spinning
-142,Dran Buster 1-60A,wizard rod 5-70db,[     1831.5       631.5],[       1144         363],False,Spinning,Spinning
-143,Dran Buster 1-60A,wizard rod 5-70db,[     1804.5       631.5],[       1141         357],False,Spinning,Spinning
-144,Dran Buster 1-60A,wizard rod 5-70db,[       1742         633],,,Spinning,Spinning
-145,Dran Buster 1-60A,wizard rod 5-70db,[     1620.5       623.5],[       1121       346.5],False,Spinning,Spinning
-146,Dran Buster 1-60A,wizard rod 5-70db,[       1118       347.5],[       1577       606.5],False,Spinning,Spinning
-147,Dran Buster 1-60A,wizard rod 5-70db,[       1114         350],[     1467.5       571.5],False,Spinning,Spinning
-148,Dran Buster 1-60A,wizard rod 5-70db,[       1125       358.5],,,Spinning,Spinning
-149,Dran Buster 1-60A,wizard rod 5-70db,[       1224         620],[     1110.5         273],False,Spinning,Spinning
-150,Dran Buster 1-60A,wizard rod 5-70db,[     1125.5       835.5],[       1056        53.5],False,Spinning,Spinning
+105,Dran Buster 1-60A,wizard rod 5-70db,[     1485.5       647.5],,,Spinning,Spinning
+106,Dran Buster 1-60A,wizard rod 5-70db,[        804       123.5],[       1420         799],False,Spinning,Spinning
+107,Dran Buster 1-60A,wizard rod 5-70db,[      953.5       252.5],,,Spinning,Spinning
+108,Dran Buster 1-60A,wizard rod 5-70db,[     1133.5       495.5],,,Spinning,Spinning
+109,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+110,Dran Buster 1-60A,wizard rod 5-70db,[     1053.5       838.5],[       1348       342.5],False,Spinning,Spinning
+111,Dran Buster 1-60A,wizard rod 5-70db,[     1564.5         260],,,Spinning,Spinning
+112,Dran Buster 1-60A,wizard rod 5-70db,[     1638.5         251],[      885.5         895],False,Spinning,Spinning
+113,Dran Buster 1-60A,wizard rod 5-70db,[      809.5         964],[     1773.5         272],False,Spinning,Spinning
+114,Dran Buster 1-60A,wizard rod 5-70db,[     1944.5       312.5],,,Spinning,Spinning
+115,Dran Buster 1-60A,wizard rod 5-70db,[     1942.5         309],,,Spinning,Spinning
+116,Dran Buster 1-60A,wizard rod 5-70db,[     1918.5         344],[      696.5       883.5],False,Spinning,Spinning
+117,Dran Buster 1-60A,wizard rod 5-70db,[      661.5         911],[       1860         455],False,Spinning,Spinning
+118,Dran Buster 1-60A,wizard rod 5-70db,[     1841.5         496],[        653       937.5],False,Spinning,Spinning
+119,Dran Buster 1-60A,wizard rod 5-70db,[       1797         507],[        658         915],False,Spinning,Spinning
+120,Dran Buster 1-60A,wizard rod 5-70db,[        682       908.5],[       1719       590.5],False,Spinning,Spinning
+121,Dran Buster 1-60A,wizard rod 5-70db,[     1690.5       615.5],,,Spinning,Spinning
+122,Dran Buster 1-60A,wizard rod 5-70db,[     1626.5         638],[      726.5         924],False,Spinning,Spinning
+123,Dran Buster 1-60A,wizard rod 5-70db,[        789         941],,,Spinning,Spinning
+124,Dran Buster 1-60A,wizard rod 5-70db,[     1489.5         688],[      810.5       947.5],False,Spinning,Spinning
+125,Dran Buster 1-60A,wizard rod 5-70db,[       1422         683],[      870.5       953.5],False,Spinning,Spinning
+126,Dran Buster 1-60A,wizard rod 5-70db,[       1327       684.5],[      994.5       977.5],False,Spinning,Spinning
+127,Dran Buster 1-60A,wizard rod 5-70db,[     1050.5         981],,,Spinning,Spinning
+128,Dran Buster 1-60A,wizard rod 5-70db,[       1242         662],[     1153.5       979.5],False,Spinning,Spinning
+129,Dran Buster 1-60A,wizard rod 5-70db,[       1185       628.5],[     1335.5       969.5],False,Spinning,Spinning
+130,Dran Buster 1-60A,wizard rod 5-70db,[       1171       618.5],,,Spinning,Spinning
+131,Dran Buster 1-60A,wizard rod 5-70db,[     1144.5         592],[     1557.5       944.5],False,Spinning,Spinning
+132,Dran Buster 1-60A,wizard rod 5-70db,[       1135       556.5],[       1749       830.5],False,Spinning,Spinning
+133,Dran Buster 1-60A,wizard rod 5-70db,[       1135         541],,,Spinning,Spinning
+134,Dran Buster 1-60A,wizard rod 5-70db,[       1887       748.5],,,Spinning,Spinning
+135,Dran Buster 1-60A,wizard rod 5-70db,[       1966         693],[     1148.5         478],False,Spinning,Spinning
+136,Dran Buster 1-60A,wizard rod 5-70db,[     1153.5         466],,,Spinning,Spinning
+137,Dran Buster 1-60A,wizard rod 5-70db,[     1162.5       438.5],[       1977       664.5],False,Spinning,Spinning
+138,Dran Buster 1-60A,wizard rod 5-70db,[     1167.5         402],[       1942         648],False,Spinning,Spinning
+139,Dran Buster 1-60A,wizard rod 5-70db,[     1165.5         396],[       1933       640.5],False,Spinning,Spinning
+140,Dran Buster 1-60A,wizard rod 5-70db,[       1161       378.5],[     1899.5         632],False,Spinning,Spinning
+141,Dran Buster 1-60A,wizard rod 5-70db,[     1831.5       631.5],[       1144         363],False,Spinning,Spinning
+142,Dran Buster 1-60A,wizard rod 5-70db,[     1804.5       631.5],[       1141         357],False,Spinning,Spinning
+143,Dran Buster 1-60A,wizard rod 5-70db,[       1742         633],,,Spinning,Spinning
+144,Dran Buster 1-60A,wizard rod 5-70db,[     1620.5       623.5],[       1121       346.5],False,Spinning,Spinning
+145,Dran Buster 1-60A,wizard rod 5-70db,[       1118       347.5],[       1577       606.5],False,Spinning,Spinning
+146,Dran Buster 1-60A,wizard rod 5-70db,[       1114         350],[     1467.5       571.5],False,Spinning,Spinning
+147,Dran Buster 1-60A,wizard rod 5-70db,[       1125       358.5],,,Spinning,Spinning
+148,Dran Buster 1-60A,wizard rod 5-70db,[       1224         620],[     1110.5         273],False,Spinning,Spinning
+149,Dran Buster 1-60A,wizard rod 5-70db,[     1125.5       835.5],[       1056        53.5],False,Spinning,Spinning
+150,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
 151,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-152,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-153,Dran Buster 1-60A,wizard rod 5-70db,[        999      1261.5],[        827         161],False,Spinning,Spinning
-154,Dran Buster 1-60A,wizard rod 5-70db,[        748         317],[     1118.5      1054.5],False,Spinning,Spinning
-155,Dran Buster 1-60A,wizard rod 5-70db,[     1159.5        1009],,,Spinning,Spinning
-156,Dran Buster 1-60A,wizard rod 5-70db,[      687.5         461],[     1242.5       920.5],False,Spinning,Spinning
-157,Dran Buster 1-60A,wizard rod 5-70db,[     1350.5       884.5],[      641.5       658.5],False,Spinning,Spinning
-158,Dran Buster 1-60A,wizard rod 5-70db,[      638.5       683.5],[       1388       887.5],False,Spinning,Spinning
-159,Dran Buster 1-60A,wizard rod 5-70db,[        643       760.5],[       1443         873],False,Spinning,Spinning
-160,Dran Buster 1-60A,wizard rod 5-70db,[      677.5         894],[       1512         741],False,Spinning,Spinning
-161,Dran Buster 1-60A,wizard rod 5-70db,[     1530.5       716.5],[        700         921],False,Spinning,Spinning
-162,Dran Buster 1-60A,wizard rod 5-70db,[        746       986.5],[     1556.5       670.5],False,Spinning,Spinning
-163,Dran Buster 1-60A,wizard rod 5-70db,[       1522       599.5],[      853.5      1063.5],False,Spinning,Spinning
-164,Dran Buster 1-60A,wizard rod 5-70db,[        892        1090],[       1494       583.5],False,Spinning,Spinning
-165,Dran Buster 1-60A,wizard rod 5-70db,[        970      1145.5],[     1430.5         559],False,Spinning,Spinning
-166,Dran Buster 1-60A,wizard rod 5-70db,[     1087.5        1208],[       1288         542],False,Spinning,Spinning
-167,Dran Buster 1-60A,wizard rod 5-70db,[     1234.5       544.5],[     1135.5      1225.5],False,Spinning,Spinning
-168,Dran Buster 1-60A,wizard rod 5-70db,[       1117         560],,,Spinning,Spinning
-169,Dran Buster 1-60A,wizard rod 5-70db,[      946.5         603],[     1421.5      1229.5],False,Spinning,Spinning
-170,Dran Buster 1-60A,wizard rod 5-70db,[      886.5         626],[       1483      1216.5],False,Spinning,Spinning
-171,Dran Buster 1-60A,wizard rod 5-70db,[      789.5         682],,,Spinning,Spinning
-172,Dran Buster 1-60A,wizard rod 5-70db,[        721         765],[     1752.5      1119.5],False,Spinning,Spinning
-173,Dran Buster 1-60A,wizard rod 5-70db,[        697       814.5],[     1802.5      1092.5],False,Spinning,Spinning
-174,Dran Buster 1-60A,wizard rod 5-70db,[        673         902],,,Spinning,Spinning
-175,Dran Buster 1-60A,wizard rod 5-70db,[      647.5      1047.5],[     1977.5       949.5],False,Spinning,Spinning
-176,Dran Buster 1-60A,wizard rod 5-70db,[       1998       921.5],[        726        1065],False,Spinning,Spinning
-177,Dran Buster 1-60A,wizard rod 5-70db,[      962.5        1078],[     2031.5         861],False,Spinning,Spinning
-178,Dran Buster 1-60A,wizard rod 5-70db,[     2077.5         783],[     1284.5        1122],False,Spinning,Spinning
-179,Dran Buster 1-60A,wizard rod 5-70db,[       2090         759],[       1392        1114],False,Spinning,Spinning
-180,Dran Buster 1-60A,wizard rod 5-70db,[     1580.5        1129],[     2101.5       716.5],False,Spinning,Spinning
-181,Dran Buster 1-60A,wizard rod 5-70db,[     2117.5       653.5],[     1792.5        1081],False,Spinning,Spinning
-182,Dran Buster 1-60A,wizard rod 5-70db,[       2123         634],[     1860.5      1011.5],False,Spinning,Spinning
-183,Dran Buster 1-60A,wizard rod 5-70db,[     2123.5       598.5],[       1956         862],False,Spinning,Spinning
-184,Dran Buster 1-60A,wizard rod 5-70db,[     1848.5         847],,,Spinning,Spinning
-185,Dran Buster 1-60A,wizard rod 5-70db,[     1752.5         880],,,Spinning,Spinning
-186,Dran Buster 1-60A,wizard rod 5-70db,[       1554       980.5],,,Spinning,Spinning
-187,Dran Buster 1-60A,wizard rod 5-70db,[       1270      1061.5],,,Spinning,Spinning
-188,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-189,Dran Buster 1-60A,wizard rod 5-70db,[       1023      1032.5],,,Spinning,Spinning
-190,Dran Buster 1-60A,wizard rod 5-70db,[        825         949],[       1056         100],False,Spinning,Spinning
-191,Dran Buster 1-60A,wizard rod 5-70db,[      951.5         143],[        766       926.5],False,Spinning,Spinning
-192,Dran Buster 1-60A,wizard rod 5-70db,[      644.5       881.5],[        791         171],False,Spinning,Spinning
-193,Dran Buster 1-60A,wizard rod 5-70db,[        472         826],,,Spinning,Spinning
-194,Dran Buster 1-60A,wizard rod 5-70db,[        439       818.5],[        503       339.5],False,Spinning,Spinning
-195,Dran Buster 1-60A,wizard rod 5-70db,[        573       765.5],[        396       549.5],False,Spinning,Spinning
-196,Dran Buster 1-60A,wizard rod 5-70db,[        481         891],[      759.5       728.5],False,Spinning,Spinning
-197,Dran Buster 1-60A,wizard rod 5-70db,[      824.5         732],,,Spinning,Spinning
-198,Dran Buster 1-60A,wizard rod 5-70db,[        967       752.5],,,Spinning,Spinning
-199,Dran Buster 1-60A,wizard rod 5-70db,[       1183       691.5],,,Spinning,Spinning
-200,Dran Buster 1-60A,wizard rod 5-70db,[       1341        1216],[     1251.5       682.5],False,Spinning,Spinning
-201,Dran Buster 1-60A,wizard rod 5-70db,[     1373.5       622.5],,,Spinning,Spinning
-202,Dran Buster 1-60A,wizard rod 5-70db,[       1935      1079.5],[     1547.5       542.5],False,Spinning,Spinning
-203,Dran Buster 1-60A,wizard rod 5-70db,[     1601.5         537],[     2024.5      1033.5],False,Spinning,Spinning
-204,Dran Buster 1-60A,wizard rod 5-70db,[     1696.5         522],[     2171.5         943],False,Spinning,Spinning
-205,Dran Buster 1-60A,wizard rod 5-70db,[       2253       795.5],[       1771         424],False,Spinning,Spinning
-206,Dran Buster 1-60A,wizard rod 5-70db,[       2207         761],[       1788       405.5],False,Spinning,Spinning
-207,Dran Buster 1-60A,wizard rod 5-70db,[     2122.5       687.5],[     1824.5       397.5],False,Spinning,Spinning
-208,Dran Buster 1-60A,wizard rod 5-70db,[       2009         596],,,Spinning,Spinning
-209,Dran Buster 1-60A,wizard rod 5-70db,[     1990.5         567],[     1849.5         358],False,Spinning,Spinning
-210,Dran Buster 1-60A,wizard rod 5-70db,[       1833       328.5],[       1943       522.5],True,Spinning,Spinning
-211,Dran Buster 1-60A,wizard rod 5-70db,[       1909         467],,,Spinning,Spinning
-212,Dran Buster 1-60A,wizard rod 5-70db,[     1887.5         447],,,Spinning,Spinning
-213,Dran Buster 1-60A,wizard rod 5-70db,[       1850         412],,,Spinning,Spinning
-214,Dran Buster 1-60A,wizard rod 5-70db,[     1798.5       356.5],,,Spinning,Spinning
-215,Dran Buster 1-60A,wizard rod 5-70db,[       1579         185],[       1778         338],False,Spinning,Spinning
-216,Dran Buster 1-60A,wizard rod 5-70db,[       1744       302.5],,,Spinning,Spinning
-217,Dran Buster 1-60A,wizard rod 5-70db,[     1693.5       239.5],,,Spinning,Spinning
-218,Dran Buster 1-60A,wizard rod 5-70db,[     1677.5       225.5],[     1442.5       166.5],True,Spinning,Spinning
-219,Dran Buster 1-60A,wizard rod 5-70db,[     1885.5       233.5],,,Spinning,Spinning
-220,Dran Buster 1-60A,wizard rod 5-70db,[        767       146.5],,,Spinning,Spinning
-221,Dran Buster 1-60A,wizard rod 5-70db,[        606         160],,,Spinning,Spinning
-222,Dran Buster 1-60A,wizard rod 5-70db,[       2135         583],,,Spinning,Spinning
-223,Dran Buster 1-60A,wizard rod 5-70db,[       1995       769.5],[      484.5         268],False,Spinning,Spinning
-224,Dran Buster 1-60A,wizard rod 5-70db,[       1948         820],[        557         311],False,Spinning,Spinning
-225,Dran Buster 1-60A,wizard rod 5-70db,[      690.5         426],,,Spinning,Spinning
-226,Dran Buster 1-60A,wizard rod 5-70db,[     1718.5        1056],[      879.5         455],False,Spinning,Spinning
-227,Dran Buster 1-60A,wizard rod 5-70db,[       1668      1104.5],,,Spinning,Spinning
-228,Dran Buster 1-60A,wizard rod 5-70db,[     1601.5      1159.5],,,Spinning,Spinning
-229,Dran Buster 1-60A,wizard rod 5-70db,[     1277.5         653],[     1493.5        1216],False,Spinning,Spinning
-230,Dran Buster 1-60A,wizard rod 5-70db,[     1343.5       663.5],[     1452.5        1232],False,Spinning,Spinning
-231,Dran Buster 1-60A,wizard rod 5-70db,[       1467         665],[       1395        1252],False,Spinning,Spinning
-232,Dran Buster 1-60A,wizard rod 5-70db,[     1626.5       659.5],[     1303.5      1259.5],False,Spinning,Spinning
-233,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-234,Dran Buster 1-60A,wizard rod 5-70db,[       1759       634.5],[       1236        1243],False,Spinning,Spinning
-235,Dran Buster 1-60A,wizard rod 5-70db,[       1191        1208],[       1814         565],False,Spinning,Spinning
-236,Dran Buster 1-60A,wizard rod 5-70db,[     1194.5        1185],[     1817.5         547],False,Spinning,Spinning
-237,Dran Buster 1-60A,wizard rod 5-70db,[       1204      1159.5],,,Spinning,Spinning
-238,Dran Buster 1-60A,wizard rod 5-70db,[     1246.5        1119],[     1883.5       486.5],False,Spinning,Spinning
-239,Dran Buster 1-60A,wizard rod 5-70db,[     1262.5        1108],[       1907         472],False,Spinning,Spinning
-240,Dran Buster 1-60A,wizard rod 5-70db,[       1311        1066],[       1939       431.5],False,Spinning,Spinning
-241,Dran Buster 1-60A,wizard rod 5-70db,[     1397.5        1043],[     2021.5         363],False,Spinning,Spinning
-242,Dran Buster 1-60A,wizard rod 5-70db,[     1955.5         336],[       1425        1032],False,Spinning,Spinning
-243,Dran Buster 1-60A,wizard rod 5-70db,[       1482      1020.5],[     1838.5         310],False,Spinning,Spinning
-244,Dran Buster 1-60A,wizard rod 5-70db,[     1640.5       339.5],[     1568.5      1004.5],False,Spinning,Spinning
-245,Dran Buster 1-60A,wizard rod 5-70db,[       1579       333.5],[       1593       983.5],False,Spinning,Spinning
-246,Dran Buster 1-60A,wizard rod 5-70db,[       1469         272],[     1625.5         943],False,Spinning,Spinning
-247,Dran Buster 1-60A,wizard rod 5-70db,[     1659.5       872.5],,,Spinning,Spinning
-248,Dran Buster 1-60A,wizard rod 5-70db,[       1242       276.5],[     1678.5         855],False,Spinning,Spinning
-249,Dran Buster 1-60A,wizard rod 5-70db,[     1707.5       821.5],[     1139.5         307],False,Spinning,Spinning
-250,Dran Buster 1-60A,wizard rod 5-70db,[       1015       328.5],[       1740       768.5],False,Spinning,Spinning
-251,Dran Buster 1-60A,wizard rod 5-70db,[       1741       752.5],[        978       358.5],False,Spinning,Spinning
-252,Dran Buster 1-60A,wizard rod 5-70db,[       1748         721],[      936.5       384.5],False,Spinning,Spinning
-253,Dran Buster 1-60A,wizard rod 5-70db,[      891.5         471],,,Spinning,Spinning
-254,Dran Buster 1-60A,wizard rod 5-70db,[       1750         661],,,Spinning,Spinning
-255,Dran Buster 1-60A,wizard rod 5-70db,[     1741.5       629.5],[        892       591.5],False,Spinning,Spinning
-256,Dran Buster 1-60A,wizard rod 5-70db,[       1723         590],[      947.5       715.5],False,Spinning,Spinning
-257,Dran Buster 1-60A,wizard rod 5-70db,[       1717         575],[        989         759],False,Spinning,Spinning
-258,Dran Buster 1-60A,wizard rod 5-70db,[     1057.5         851],[     1699.5       556.5],False,Spinning,Spinning
-259,Dran Buster 1-60A,wizard rod 5-70db,[       1665         518],[     1207.5       977.5],False,Spinning,Spinning
-260,Dran Buster 1-60A,wizard rod 5-70db,[       1654         511],[       1252        1016],False,Spinning,Spinning
-261,Dran Buster 1-60A,wizard rod 5-70db,[     1350.5      1069.5],[       1623         496],False,Spinning,Spinning
-262,Dran Buster 1-60A,wizard rod 5-70db,[       1565       470.5],[       1488        1077],False,Spinning,Spinning
-263,Dran Buster 1-60A,wizard rod 5-70db,[       1548       468.5],,,Spinning,Spinning
-264,Dran Buster 1-60A,wizard rod 5-70db,[       1504         463],[       1636        1103],False,Spinning,Spinning
-265,Dran Buster 1-60A,wizard rod 5-70db,[       1433         461],[       1763        1058],False,Spinning,Spinning
-266,Dran Buster 1-60A,wizard rod 5-70db,[     1412.5       464.5],,,Spinning,Spinning
-267,Dran Buster 1-60A,wizard rod 5-70db,[     1366.5       469.5],[     1866.5         795],False,Spinning,Spinning
-268,Dran Buster 1-60A,wizard rod 5-70db,[     1298.5         482],,,Spinning,Spinning
-269,Dran Buster 1-60A,wizard rod 5-70db,[       1958       476.5],[       1272         490],False,Spinning,Spinning
-270,Dran Buster 1-60A,wizard rod 5-70db,[     1237.5       499.5],[       1988       336.5],False,Spinning,Spinning
-271,Dran Buster 1-60A,wizard rod 5-70db,[     1695.5       271.5],[     1187.5       514.5],False,Spinning,Spinning
-272,Dran Buster 1-60A,wizard rod 5-70db,[       1172         529],[     1594.5       252.5],False,Spinning,Spinning
-273,Dran Buster 1-60A,wizard rod 5-70db,[       1416         220],[       1139         537],False,Spinning,Spinning
-274,Dran Buster 1-60A,wizard rod 5-70db,[       1105         565],[     1152.5         196],False,Spinning,Spinning
-275,Dran Buster 1-60A,wizard rod 5-70db,[     1093.5       572.5],[     1083.5         194],False,Spinning,Spinning
-276,Dran Buster 1-60A,wizard rod 5-70db,[     1079.5         579],[       1014       199.5],False,Spinning,Spinning
-277,Dran Buster 1-60A,wizard rod 5-70db,[      832.5       242.5],[       1050       603.5],False,Spinning,Spinning
-278,Dran Buster 1-60A,wizard rod 5-70db,[       1044         624],[        786         254],False,Spinning,Spinning
-279,Dran Buster 1-60A,wizard rod 5-70db,[     1026.5         641],[        675       310.5],False,Spinning,Spinning
-280,Dran Buster 1-60A,wizard rod 5-70db,[       1009         667],,,Spinning,Spinning
-281,Dran Buster 1-60A,wizard rod 5-70db,[     1001.5         686],[        487       428.5],False,Spinning,Spinning
-282,Dran Buster 1-60A,wizard rod 5-70db,[        992       700.5],[      397.5         503],False,Spinning,Spinning
-283,Dran Buster 1-60A,wizard rod 5-70db,[        985       725.5],,,Spinning,Spinning
-284,Dran Buster 1-60A,wizard rod 5-70db,[      464.5       755.5],,,Spinning,Spinning
-285,Dran Buster 1-60A,wizard rod 5-70db,[        988       761.5],,,Spinning,Spinning
-286,Dran Buster 1-60A,wizard rod 5-70db,[      987.5       783.5],[      738.5      1043.5],False,Spinning,Spinning
-287,Dran Buster 1-60A,wizard rod 5-70db,[      991.5       788.5],[        818        1110],False,Spinning,Spinning
-288,Dran Buster 1-60A,wizard rod 5-70db,[      960.5        1171],[        997       810.5],False,Spinning,Spinning
-289,Dran Buster 1-60A,wizard rod 5-70db,[     1019.5         821],,,Spinning,Spinning
-290,Dran Buster 1-60A,wizard rod 5-70db,[       1028         825],[       1277        1214],False,Spinning,Spinning
-291,Dran Buster 1-60A,wizard rod 5-70db,[     1417.5      1202.5],,,Spinning,Spinning
-292,Dran Buster 1-60A,wizard rod 5-70db,[     1077.5         845],,,Spinning,Spinning
-293,Dran Buster 1-60A,wizard rod 5-70db,[     1578.5        1135],,,Spinning,Spinning
-294,Dran Buster 1-60A,wizard rod 5-70db,[     1101.5         847],[     1623.5      1095.5],False,Spinning,Spinning
-295,Dran Buster 1-60A,wizard rod 5-70db,[       1126         845],,,Spinning,Spinning
-296,Dran Buster 1-60A,wizard rod 5-70db,[       1139         845],[     1661.5         991],False,Spinning,Spinning
-297,Dran Buster 1-60A,wizard rod 5-70db,[     1664.5       923.5],[     1152.5         840],False,Spinning,Spinning
-298,Dran Buster 1-60A,wizard rod 5-70db,[       1181       831.5],,,Spinning,Spinning
-299,Dran Buster 1-60A,wizard rod 5-70db,[     1191.5         827],[     1650.5         761],False,Spinning,Spinning
-300,Dran Buster 1-60A,wizard rod 5-70db,[       1209         818],,,Spinning,Spinning
-301,Dran Buster 1-60A,wizard rod 5-70db,[     1541.5         569],,,Spinning,Spinning
-302,Dran Buster 1-60A,wizard rod 5-70db,[     1243.5       793.5],[     1514.5       542.5],False,Spinning,Spinning
-303,Dran Buster 1-60A,wizard rod 5-70db,[       1261       783.5],[     1451.5         496],False,Spinning,Spinning
-304,Dran Buster 1-60A,wizard rod 5-70db,[       1285         759],[       1354       435.5],False,Spinning,Spinning
-305,Dran Buster 1-60A,wizard rod 5-70db,[     1292.5       753.5],[     1319.5         424],False,Spinning,Spinning
-306,Dran Buster 1-60A,wizard rod 5-70db,[       1252         397],,,Spinning,Spinning
-307,Dran Buster 1-60A,wizard rod 5-70db,[     1159.5         371],[     1321.5         709],False,Spinning,Spinning
-308,Dran Buster 1-60A,wizard rod 5-70db,[     1326.5         700],[       1126         364],False,Spinning,Spinning
-309,Dran Buster 1-60A,wizard rod 5-70db,[     1062.5       352.5],,,Spinning,Spinning
-310,Dran Buster 1-60A,wizard rod 5-70db,[       1340         654],[        962         349],False,Spinning,Spinning
-311,Dran Buster 1-60A,wizard rod 5-70db,[       1346       642.5],[      936.5         359],False,Spinning,Spinning
-312,Dran Buster 1-60A,wizard rod 5-70db,[     1347.5       626.5],[        895         396],False,Spinning,Spinning
-313,Dran Buster 1-60A,wizard rod 5-70db,[     1345.5       597.5],[      843.5       468.5],False,Spinning,Spinning
-314,Dran Buster 1-60A,wizard rod 5-70db,[       1343       592.5],[        830         501],False,Spinning,Spinning
-315,Dran Buster 1-60A,wizard rod 5-70db,[     1341.5         575],,,Spinning,Spinning
-316,Dran Buster 1-60A,wizard rod 5-70db,[        834         620],[       1331         556],False,Spinning,Spinning
-317,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-318,Dran Buster 1-60A,wizard rod 5-70db,[        888       691.5],[       1326       537.5],False,Spinning,Spinning
-319,Dran Buster 1-60A,wizard rod 5-70db,[     1307.5         528],[      985.5       748.5],False,Spinning,Spinning
-320,Dran Buster 1-60A,wizard rod 5-70db,[     1023.5       760.5],[     1302.5         526],False,Spinning,Spinning
-321,Dran Buster 1-60A,wizard rod 5-70db,[     1297.5         523],,,Spinning,Spinning
-322,Dran Buster 1-60A,wizard rod 5-70db,[     1294.5         515],[       1239         762],False,Spinning,Spinning
-323,Dran Buster 1-60A,wizard rod 5-70db,[     1292.5       512.5],[       1274         752],True,Spinning,Spinning
-324,Dran Buster 1-60A,wizard rod 5-70db,[       1290         509],[     1351.5         720],False,Spinning,Spinning
-325,Dran Buster 1-60A,wizard rod 5-70db,[     1456.5         688],[       1262         463],False,Spinning,Spinning
-326,Dran Buster 1-60A,wizard rod 5-70db,[       1247       433.5],[       1492       686.5],False,Spinning,Spinning
-327,Dran Buster 1-60A,wizard rod 5-70db,[     1225.5       390.5],[       1565       663.5],False,Spinning,Spinning
-328,Dran Buster 1-60A,wizard rod 5-70db,[     1194.5       348.5],[       1638         616],False,Spinning,Spinning
-329,Dran Buster 1-60A,wizard rod 5-70db,[       1655       592.5],[       1181         342],False,Spinning,Spinning
-330,Dran Buster 1-60A,wizard rod 5-70db,[       1158         339],[     1682.5         554],False,Spinning,Spinning
-331,Dran Buster 1-60A,wizard rod 5-70db,[       1689         495],[       1121         337],False,Spinning,Spinning
-332,Dran Buster 1-60A,wizard rod 5-70db,[     1106.5         337],,,Spinning,Spinning
-333,Dran Buster 1-60A,wizard rod 5-70db,[       1611       467.5],[     1092.5       339.5],False,Spinning,Spinning
-334,Dran Buster 1-60A,wizard rod 5-70db,[     1071.5       346.5],[       1547       455.5],False,Spinning,Spinning
-335,Dran Buster 1-60A,wizard rod 5-70db,[     1065.5       348.5],[     1520.5       456.5],False,Spinning,Spinning
-336,Dran Buster 1-60A,wizard rod 5-70db,[     1473.5         466],[       1048         360],False,Spinning,Spinning
-337,Dran Buster 1-60A,wizard rod 5-70db,[     1036.5         372],[     1396.5       500.5],False,Spinning,Spinning
-338,Dran Buster 1-60A,wizard rod 5-70db,[       1033       377.5],,,Spinning,Spinning
-339,Dran Buster 1-60A,wizard rod 5-70db,[       1320         558],,,Spinning,Spinning
-340,Dran Buster 1-60A,wizard rod 5-70db,[       1264       631.5],[       1018         411],False,Spinning,Spinning
-341,Dran Buster 1-60A,wizard rod 5-70db,[       1244         656],,,Spinning,Spinning
-342,Dran Buster 1-60A,wizard rod 5-70db,[       1014         440],[     1225.5       715.5],False,Spinning,Spinning
-343,Dran Buster 1-60A,wizard rod 5-70db,[       1215       788.5],[       1013       471.5],False,Spinning,Spinning
-344,Dran Buster 1-60A,wizard rod 5-70db,[       1216         817],[     1014.5       483.5],False,Spinning,Spinning
-345,Dran Buster 1-60A,wizard rod 5-70db,[     1020.5       504.5],,,Spinning,Spinning
-346,Dran Buster 1-60A,wizard rod 5-70db,[       1037       538.5],,,Spinning,Spinning
-347,Dran Buster 1-60A,wizard rod 5-70db,[       1295       936.5],[       1042         555],False,Spinning,Spinning
-348,Dran Buster 1-60A,wizard rod 5-70db,[     1054.5       575.5],,,Spinning,Spinning
-349,Dran Buster 1-60A,wizard rod 5-70db,[     1397.5       982.5],,,Spinning,Spinning
-350,Dran Buster 1-60A,wizard rod 5-70db,[       1087         623],[     1411.5       980.5],False,Spinning,Spinning
-351,Dran Buster 1-60A,wizard rod 5-70db,[       1455         957],,,Spinning,Spinning
-352,Dran Buster 1-60A,wizard rod 5-70db,[     1492.5         922],,,Spinning,Spinning
-353,Dran Buster 1-60A,wizard rod 5-70db,[       1153         687],[     1497.5       896.5],False,Spinning,Spinning
-354,Dran Buster 1-60A,wizard rod 5-70db,[       1178         704],[     1494.5         856],False,Spinning,Spinning
-355,Dran Buster 1-60A,wizard rod 5-70db,[       1465         788],[     1217.5       726.5],False,Spinning,Spinning
-356,Dran Buster 1-60A,wizard rod 5-70db,[     1150.5       697.5],[     1507.5         789],False,Spinning,Spinning
-357,Dran Buster 1-60A,wizard rod 5-70db,[      990.5       632.5],[       1610       802.5],False,Spinning,Spinning
-358,Dran Buster 1-60A,wizard rod 5-70db,[        807         541],[     1723.5       792.5],False,Spinning,Spinning
-359,Dran Buster 1-60A,wizard rod 5-70db,[     1737.5       786.5],,,Spinning,Spinning
-360,Dran Buster 1-60A,wizard rod 5-70db,[     1758.5         762],,,Spinning,Spinning
-361,Dran Buster 1-60A,wizard rod 5-70db,[        643       474.5],[     1792.5       754.5],False,Spinning,Spinning
-362,Dran Buster 1-60A,wizard rod 5-70db,[     1813.5       759.5],[      630.5       471.5],False,Spinning,Spinning
-363,Dran Buster 1-60A,wizard rod 5-70db,[        609         470],[       1845       785.5],False,Spinning,Spinning
-364,Dran Buster 1-60A,wizard rod 5-70db,[     1898.5       825.5],[      566.5         471],False,Spinning,Spinning
-365,Dran Buster 1-60A,wizard rod 5-70db,[      548.5       469.5],,,Spinning,Spinning
-366,Dran Buster 1-60A,wizard rod 5-70db,[       1948         850],[      510.5       462.5],False,Spinning,Spinning
-367,Dran Buster 1-60A,wizard rod 5-70db,[        474       446.5],[     1976.5       868.5],False,Spinning,Spinning
-368,Dran Buster 1-60A,wizard rod 5-70db,[      462.5       445.5],[       1992         876],False,Spinning,Spinning
-369,Dran Buster 1-60A,wizard rod 5-70db,[     2006.5         873],[        439       434.5],False,Spinning,Spinning
-370,Dran Buster 1-60A,wizard rod 5-70db,[       1998         852],,,Spinning,Spinning
-371,Dran Buster 1-60A,wizard rod 5-70db,[        494         513],[       1994       855.5],False,Spinning,Spinning
-372,Dran Buster 1-60A,wizard rod 5-70db,[     1987.5       845.5],[        504         536],False,Spinning,Spinning
-373,Dran Buster 1-60A,wizard rod 5-70db,[      514.5         555],,,Spinning,Spinning
-374,Dran Buster 1-60A,wizard rod 5-70db,[        517       556.5],,,Spinning,Spinning
-375,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-376,Dran Buster 1-60A,wizard rod 5-70db,[      519.5       535.5],[     1894.5       806.5],False,Spinning,Spinning
-377,Dran Buster 1-60A,wizard rod 5-70db,[      519.5       532.5],,,Spinning,Spinning
-378,Dran Buster 1-60A,wizard rod 5-70db,[        527       527.5],[       1847         789],False,Spinning,Spinning
-379,Dran Buster 1-60A,wizard rod 5-70db,[       1781       765.5],,,Spinning,Spinning
-380,Dran Buster 1-60A,wizard rod 5-70db,[       1761         755],,,Spinning,Spinning
-381,Dran Buster 1-60A,wizard rod 5-70db,[      544.5         508],,,Spinning,Spinning
-382,Dran Buster 1-60A,wizard rod 5-70db,[      562.5       501.5],,,Spinning,Spinning
-383,Dran Buster 1-60A,wizard rod 5-70db,[        568         499],[       1603         704],False,Spinning,Spinning
-384,Dran Buster 1-60A,wizard rod 5-70db,[        581       496.5],[       1551         670],False,Spinning,Spinning
-385,Dran Buster 1-60A,wizard rod 5-70db,[      604.5       492.5],[     1468.5         640],False,Spinning,Spinning
-386,Dran Buster 1-60A,wizard rod 5-70db,[      614.5         493],[     1444.5         631],False,Spinning,Spinning
-387,Dran Buster 1-60A,wizard rod 5-70db,[     1391.5       609.5],,,Spinning,Spinning
-388,Dran Buster 1-60A,wizard rod 5-70db,[      662.5       492.5],[     1329.5         577],False,Spinning,Spinning
-389,Dran Buster 1-60A,wizard rod 5-70db,[       1303       560.5],,,Spinning,Spinning
-390,Dran Buster 1-60A,wizard rod 5-70db,[      695.5         493],,,Spinning,Spinning
-391,Dran Buster 1-60A,wizard rod 5-70db,[        727         493],[       1213       519.5],False,Spinning,Spinning
-392,Dran Buster 1-60A,wizard rod 5-70db,[      742.5       495.5],[       1199         510],False,Spinning,Spinning
-393,Dran Buster 1-60A,wizard rod 5-70db,[        767       499.5],[       1175       496.5],False,Spinning,Spinning
-394,Dran Buster 1-60A,wizard rod 5-70db,[       1144         473],[      814.5       537.5],False,Spinning,Spinning
-395,Dran Buster 1-60A,wizard rod 5-70db,[       1141       469.5],[        823         552],False,Spinning,Spinning
-396,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-397,Dran Buster 1-60A,wizard rod 5-70db,[      898.5       627.5],[       1114         407],False,Spinning,Spinning
-398,Dran Buster 1-60A,wizard rod 5-70db,[       1108         394],,,Spinning,Spinning
-399,Dran Buster 1-60A,wizard rod 5-70db,[       1110         373],,,Spinning,Spinning
-400,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-401,Dran Buster 1-60A,wizard rod 5-70db,[     1107.5       336.5],[     1025.5         716],False,Spinning,Spinning
-402,Dran Buster 1-60A,wizard rod 5-70db,[     1106.5         334],[     1068.5       740.5],False,Spinning,Spinning
-403,Dran Buster 1-60A,wizard rod 5-70db,[       1116         347],,,Spinning,Spinning
-404,Dran Buster 1-60A,wizard rod 5-70db,[       1121         356],[       1153         774],False,Spinning,Spinning
-405,Dran Buster 1-60A,wizard rod 5-70db,[     1136.5       374.5],[       1206       794.5],False,Spinning,Spinning
-406,Dran Buster 1-60A,wizard rod 5-70db,[       1160       406.5],[     1272.5       813.5],False,Spinning,Spinning
-407,Dran Buster 1-60A,wizard rod 5-70db,[     1292.5         819],[       1168       428.5],False,Spinning,Spinning
-408,Dran Buster 1-60A,wizard rod 5-70db,[     1187.5         452],,,Spinning,Spinning
-409,Dran Buster 1-60A,wizard rod 5-70db,[     1235.5         502],,,Spinning,Spinning
-410,Dran Buster 1-60A,wizard rod 5-70db,[       1243         524],,,Spinning,Spinning
-411,Dran Buster 1-60A,wizard rod 5-70db,[       1282       556.5],,,Spinning,Spinning
-412,Dran Buster 1-60A,wizard rod 5-70db,[     1330.5       603.5],,,Spinning,Spinning
-413,Dran Buster 1-60A,wizard rod 5-70db,[       1345       619.5],[     1537.5         828],False,Spinning,Spinning
-414,Dran Buster 1-60A,wizard rod 5-70db,[     1572.5         823],[       1374       651.5],False,Spinning,Spinning
-415,Dran Buster 1-60A,wizard rod 5-70db,[       1415       691.5],,,Spinning,Spinning
-416,Dran Buster 1-60A,wizard rod 5-70db,[     1631.5         809],[       1432         701],True,Spinning,Spinning
-417,Dran Buster 1-60A,wizard rod 5-70db,[       1454       727.5],[       1666         804],False,Spinning,Spinning
-418,Dran Buster 1-60A,wizard rod 5-70db,[       1473       757.5],[     1716.5         815],False,Spinning,Spinning
-419,Dran Buster 1-60A,wizard rod 5-70db,[       1481         757],[       1717         816],True,Spinning,Spinning
-420,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-421,Dran Buster 1-60A,wizard rod 5-70db,[       1502       790.5],[       1737         812],False,Spinning,Spinning
-422,Dran Buster 1-60A,wizard rod 5-70db,[     1752.5       818.5],,,Spinning,Spinning
-423,Dran Buster 1-60A,wizard rod 5-70db,[       1766         833],,,Spinning,Spinning
-424,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-425,Dran Buster 1-60A,wizard rod 5-70db,[       1488         815],,,Spinning,Spinning
-426,Dran Buster 1-60A,wizard rod 5-70db,[     1795.5         907],[       1465         805],False,Spinning,Spinning
-427,Dran Buster 1-60A,wizard rod 5-70db,[     1804.5         930],,,Spinning,Spinning
-428,Dran Buster 1-60A,wizard rod 5-70db,[     1804.5       937.5],[       1424         802],False,Spinning,Spinning
-429,Dran Buster 1-60A,wizard rod 5-70db,[     1808.5         949],[     1397.5       794.5],False,Spinning,Spinning
-430,Dran Buster 1-60A,wizard rod 5-70db,[     1352.5         791],[       1806       969.5],False,Spinning,Spinning
-431,Dran Buster 1-60A,wizard rod 5-70db,[       1805         976],[       1332       780.5],False,Spinning,Spinning
-432,Dran Buster 1-60A,wizard rod 5-70db,[       1803         993],,,Spinning,Spinning
-433,Dran Buster 1-60A,wizard rod 5-70db,[     1792.5        1016],[       1255       759.5],False,Spinning,Spinning
-434,Dran Buster 1-60A,wizard rod 5-70db,[       1788        1020],[     1231.5       751.5],False,Spinning,Spinning
-435,Dran Buster 1-60A,wizard rod 5-70db,[     1782.5      1031.5],,,Spinning,Spinning
-436,Dran Buster 1-60A,wizard rod 5-70db,[     1145.5       722.5],[     1759.5        1036],False,Spinning,Spinning
-437,Dran Buster 1-60A,wizard rod 5-70db,[       1131       725.5],[       1754      1039.5],False,Spinning,Spinning
-438,Dran Buster 1-60A,wizard rod 5-70db,[     1738.5      1042.5],,,Spinning,Spinning
-439,Dran Buster 1-60A,wizard rod 5-70db,[     1714.5        1042],[     1063.5       689.5],False,Spinning,Spinning
-440,Dran Buster 1-60A,wizard rod 5-70db,[     1700.5        1044],[     1051.5       685.5],False,Spinning,Spinning
-441,Dran Buster 1-60A,wizard rod 5-70db,[     1689.5        1042],[     1034.5       674.5],False,Spinning,Spinning
-442,Dran Buster 1-60A,wizard rod 5-70db,[     1012.5       658.5],[     1657.5        1039],False,Spinning,Spinning
-443,Dran Buster 1-60A,wizard rod 5-70db,[       1642      1037.5],[     1013.5       652.5],False,Spinning,Spinning
-444,Dran Buster 1-60A,wizard rod 5-70db,[       1623        1037],,,Spinning,Spinning
-445,Dran Buster 1-60A,wizard rod 5-70db,[     1588.5      1028.5],[     1012.5       633.5],False,Spinning,Spinning
-446,Dran Buster 1-60A,wizard rod 5-70db,[       1577        1026],[     1021.5         630],False,Spinning,Spinning
-447,Dran Buster 1-60A,wizard rod 5-70db,[     1040.5       629.5],[     1553.5      1006.5],False,Spinning,Spinning
-448,Dran Buster 1-60A,wizard rod 5-70db,[       1522       957.5],[       1051       617.5],False,Spinning,Spinning
-449,Dran Buster 1-60A,wizard rod 5-70db,[       1071       622.5],[     1508.5       944.5],False,Spinning,Spinning
-450,Dran Buster 1-60A,wizard rod 5-70db,[     1500.5         914],[     1091.5         611],False,Spinning,Spinning
-451,Dran Buster 1-60A,wizard rod 5-70db,[       1479         874],,,Spinning,Spinning
-452,Dran Buster 1-60A,wizard rod 5-70db,[       1470       857.5],,,Spinning,Spinning
-453,Dran Buster 1-60A,wizard rod 5-70db,[     1455.5       830.5],[     1176.5         592],False,Spinning,Spinning
-454,Dran Buster 1-60A,wizard rod 5-70db,[       1225       593.5],[     1427.5         786],False,Spinning,Spinning
-455,Dran Buster 1-60A,wizard rod 5-70db,[       1414         768],[     1238.5       594.5],True,Spinning,Spinning
-456,Dran Buster 1-60A,wizard rod 5-70db,[       1280         571],,,Spinning,Spinning
-457,Dran Buster 1-60A,wizard rod 5-70db,[     1321.5         538],[     1387.5       753.5],False,Spinning,Spinning
-458,Dran Buster 1-60A,wizard rod 5-70db,[     1375.5         758],[       1335         523],False,Spinning,Spinning
-459,Dran Buster 1-60A,wizard rod 5-70db,[       1351       755.5],[       1356       523.5],False,Spinning,Spinning
-460,Dran Buster 1-60A,wizard rod 5-70db,[       1366         509],[     1318.5         730],False,Spinning,Spinning
-461,Dran Buster 1-60A,wizard rod 5-70db,[     1362.5         501],[     1310.5         723],False,Spinning,Spinning
-462,Dran Buster 1-60A,wizard rod 5-70db,[     1387.5         495],,,Spinning,Spinning
-463,Dran Buster 1-60A,wizard rod 5-70db,[       1430       499.5],,,Spinning,Spinning
-464,Dran Buster 1-60A,wizard rod 5-70db,[     1281.5         664],,,Spinning,Spinning
-465,Dran Buster 1-60A,wizard rod 5-70db,[     1441.5       514.5],,,Spinning,Spinning
-466,Dran Buster 1-60A,wizard rod 5-70db,[       1208         632],[       1455       524.5],False,Spinning,Spinning
-467,Dran Buster 1-60A,wizard rod 5-70db,[       1193         626],[       1457       526.5],False,Spinning,Spinning
-468,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-469,Dran Buster 1-60A,wizard rod 5-70db,[     1139.5         599],[       1427       591.5],False,Spinning,Spinning
-470,Dran Buster 1-60A,wizard rod 5-70db,[       1134       595.5],[       1417       601.5],False,Spinning,Spinning
-471,Dran Buster 1-60A,wizard rod 5-70db,[     1387.5       635.5],[       1111         590],False,Spinning,Spinning
-472,Dran Buster 1-60A,wizard rod 5-70db,[       1095       574.5],[       1354         682],False,Spinning,Spinning
-473,Dran Buster 1-60A,wizard rod 5-70db,[     1085.5         570],,,Spinning,Spinning
-474,Dran Buster 1-60A,wizard rod 5-70db,[       1312         696],[       1076         563],False,Spinning,Spinning
-475,Dran Buster 1-60A,wizard rod 5-70db,[     1057.5         559],[       1295         698],False,Spinning,Spinning
-476,Dran Buster 1-60A,wizard rod 5-70db,[       1051       556.5],[     1292.5         694],False,Spinning,Spinning
-477,Dran Buster 1-60A,wizard rod 5-70db,[       1285       678.5],,,Spinning,Spinning
-478,Dran Buster 1-60A,wizard rod 5-70db,[     1273.5       655.5],,,Spinning,Spinning
-479,Dran Buster 1-60A,wizard rod 5-70db,[       1272         650],[       1036       545.5],False,Spinning,Spinning
-480,Dran Buster 1-60A,wizard rod 5-70db,[     1270.5       637.5],[       1033         542],False,Spinning,Spinning
-481,Dran Buster 1-60A,wizard rod 5-70db,[       1279       627.5],[       1031         542],False,Spinning,Spinning
-482,Dran Buster 1-60A,wizard rod 5-70db,[     1282.5       625.5],[     1030.5       541.5],False,Spinning,Spinning
-483,Dran Buster 1-60A,wizard rod 5-70db,[     1281.5         621],[     1031.5       542.5],False,Spinning,Spinning
-484,Dran Buster 1-60A,wizard rod 5-70db,[     1036.5         543],[     1279.5       633.5],False,Spinning,Spinning
-485,Dran Buster 1-60A,wizard rod 5-70db,[     1275.5       631.5],[     1037.5       544.5],False,Spinning,Spinning
-486,Dran Buster 1-60A,wizard rod 5-70db,[       1270       630.5],,,Spinning,Spinning
-487,Dran Buster 1-60A,wizard rod 5-70db,[       1282         638],,,Spinning,Spinning
-488,Dran Buster 1-60A,wizard rod 5-70db,[       1280       637.5],[       1052       553.5],True,Spinning,Spinning
-489,Dran Buster 1-60A,wizard rod 5-70db,[       1065       558.5],,,Spinning,Spinning
-490,Dran Buster 1-60A,wizard rod 5-70db,[     1078.5         563],[     1284.5         663],False,Spinning,Spinning
-491,Dran Buster 1-60A,wizard rod 5-70db,[       1086       565.5],[       1280       665.5],False,Spinning,Spinning
-492,Dran Buster 1-60A,wizard rod 5-70db,[     1105.5         572],[     1271.5       685.5],False,Spinning,Spinning
-493,Dran Buster 1-60A,wizard rod 5-70db,[       1113       569.5],[     1258.5       709.5],False,Spinning,Spinning
-494,Dran Buster 1-60A,wizard rod 5-70db,[     1115.5       566.5],[     1265.5         716],False,Spinning,Spinning
-495,Dran Buster 1-60A,wizard rod 5-70db,[       1130         566],,,Spinning,Spinning
-496,Dran Buster 1-60A,wizard rod 5-70db,[       1148       574.5],[     1249.5         752],False,Spinning,Spinning
-497,Dran Buster 1-60A,wizard rod 5-70db,[     1149.5       556.5],[       1238         764],False,Spinning,Spinning
-498,Dran Buster 1-60A,wizard rod 5-70db,[     1226.5       784.5],[     1162.5         524],False,Spinning,Spinning
-499,Dran Buster 1-60A,wizard rod 5-70db,[       1191         491],[     1202.5       854.5],False,Spinning,Spinning
-500,Dran Buster 1-60A,wizard rod 5-70db,[     1189.5         875],,,Spinning,Spinning
-501,Dran Buster 1-60A,wizard rod 5-70db,[       1167       882.5],[       1204         478],False,Spinning,Spinning
-502,Dran Buster 1-60A,wizard rod 5-70db,[       1204       475.5],[       1149         876],False,Spinning,Spinning
-503,Dran Buster 1-60A,wizard rod 5-70db,[       1208       474.5],[       1150       858.5],False,Spinning,Spinning
-504,Dran Buster 1-60A,wizard rod 5-70db,[     1213.5         474],,,Spinning,Spinning
-505,Dran Buster 1-60A,wizard rod 5-70db,[     1128.5         819],[       1225       476.5],False,Spinning,Spinning
-506,Dran Buster 1-60A,wizard rod 5-70db,[     1120.5       811.5],[       1227         477],False,Spinning,Spinning
-507,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-508,Dran Buster 1-60A,wizard rod 5-70db,[       1110       808.5],,,Spinning,Spinning
-509,Dran Buster 1-60A,wizard rod 5-70db,[       1239         491],[       1110       807.5],False,Spinning,Spinning
-510,Dran Buster 1-60A,wizard rod 5-70db,[     1247.5         497],,,Spinning,Spinning
-511,Dran Buster 1-60A,wizard rod 5-70db,[       1261       507.5],[       1109         804],False,Spinning,Spinning
-512,Dran Buster 1-60A,wizard rod 5-70db,[     1264.5       512.5],,,Spinning,Spinning
-513,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-514,Dran Buster 1-60A,wizard rod 5-70db,[     1277.5         533],,,Spinning,Spinning
-515,Dran Buster 1-60A,wizard rod 5-70db,[     1279.5       539.5],[     1109.5       802.5],False,Spinning,Spinning
-516,Dran Buster 1-60A,wizard rod 5-70db,[       1287         555],,,Spinning,Spinning
-517,Dran Buster 1-60A,wizard rod 5-70db,[     1299.5         572],,,Spinning,Spinning
-518,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-519,Dran Buster 1-60A,wizard rod 5-70db,[       1304       591.5],,,Spinning,Spinning
-520,Dran Buster 1-60A,wizard rod 5-70db,[       1315       611.5],,,Spinning,Spinning
-521,Dran Buster 1-60A,wizard rod 5-70db,[       1317         622],,,Spinning,Spinning
-522,Dran Buster 1-60A,wizard rod 5-70db,[     1326.5       634.5],,,Spinning,Spinning
-523,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-524,Dran Buster 1-60A,wizard rod 5-70db,[       1331       660.5],,,Spinning,Spinning
-525,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-526,Dran Buster 1-60A,wizard rod 5-70db,[     1338.5       696.5],,,Spinning,Spinning
-527,Dran Buster 1-60A,wizard rod 5-70db,[     1340.5       702.5],,,Spinning,Spinning
-528,Dran Buster 1-60A,wizard rod 5-70db,[       1343         718],,,Spinning,Spinning
-529,Dran Buster 1-60A,wizard rod 5-70db,[     1346.5         731],,,Spinning,Spinning
-530,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-531,Dran Buster 1-60A,wizard rod 5-70db,[     1345.5         753],,,Spinning,Spinning
-532,Dran Buster 1-60A,wizard rod 5-70db,[       1344       765.5],,,Spinning,Spinning
-533,Dran Buster 1-60A,wizard rod 5-70db,[       1342       770.5],,,Spinning,Spinning
-534,Dran Buster 1-60A,wizard rod 5-70db,[       1339         783],,,Spinning,Spinning
-535,Dran Buster 1-60A,wizard rod 5-70db,[     1335.5         790],,,Spinning,Spinning
-536,Dran Buster 1-60A,wizard rod 5-70db,[       1333         792],,,Spinning,Spinning
-537,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
-538,Dran Buster 1-60A,wizard rod 5-70db,[     1319.5         811],,,Spinning,Spinning
-539,Dran Buster 1-60A,wizard rod 5-70db,[     1315.5         814],,,Spinning,Spinning
-540,Dran Buster 1-60A,wizard rod 5-70db,[     1311.5         816],,,Spinning,Spinning
-541,Dran Buster 1-60A,wizard rod 5-70db,[       1303         819],[     1103.5         805],True,Spinning,Spinning
-542,Dran Buster 1-60A,wizard rod 5-70db,[       1103       804.5],,,Spinning,Spinning
-543,Dran Buster 1-60A,wizard rod 5-70db,[     1101.5       805.5],,,Spinning,Spinning
-544,Dran Buster 1-60A,wizard rod 5-70db,[       1097         805],[       1284         818],False,Spinning,Spinning
-545,Dran Buster 1-60A,wizard rod 5-70db,[       1096       805.5],[       1282         817],False,Spinning,Spinning
-546,Dran Buster 1-60A,wizard rod 5-70db,[       1095         806],,,Spinning,Spinning
-547,Dran Buster 1-60A,wizard rod 5-70db,[     1091.5         806],[     1268.5       798.5],False,Spinning,Spinning
-548,Dran Buster 1-60A,wizard rod 5-70db,[     1091.5         806],[       1268         798],False,Spinning,Spinning
-549,Dran Buster 1-60A,wizard rod 5-70db,[       1092         804],[       1267         796],False,Spinning,Spinning
-550,Dran Buster 1-60A,wizard rod 5-70db,[     1090.5         802],[     1267.5         791],False,Spinning,Spinning
-551,Dran Buster 1-60A,wizard rod 5-70db,[       1090       801.5],[       1267         790],False,Spinning,Spinning
-552,Dran Buster 1-60A,wizard rod 5-70db,[     1089.5         799],[     1267.5         786],False,Spinning,Spinning
-553,Dran Buster 1-60A,wizard rod 5-70db,[       1092       800.5],[     1270.5       770.5],False,Spinning,Spinning
-554,Dran Buster 1-60A,wizard rod 5-70db,[       1094         802],[     1270.5         764],False,Spinning,Spinning
-555,Dran Buster 1-60A,wizard rod 5-70db,[       1273         755],[       1096         801],False,Spinning,Spinning
-556,Dran Buster 1-60A,wizard rod 5-70db,[     1098.5         800],[       1274         737],False,Spinning,Spinning
-557,Dran Buster 1-60A,wizard rod 5-70db,[       1275         729],[       1099         800],False,Spinning,Spinning
-558,Dran Buster 1-60A,wizard rod 5-70db,[       1274       721.5],[       1101         800],False,Spinning,Spinning
-559,Dran Buster 1-60A,wizard rod 5-70db,[     1274.5       703.5],[       1102       800.5],False,Spinning,Spinning
-560,Dran Buster 1-60A,wizard rod 5-70db,[     1276.5         696],[     1103.5       800.5],False,Spinning,Spinning
-561,Dran Buster 1-60A,wizard rod 5-70db,[     1275.5         687],[       1104       799.5],False,Spinning,Spinning
-562,Dran Buster 1-60A,wizard rod 5-70db,[       1280         663],[       1103       799.5],False,Spinning,Spinning
-563,Dran Buster 1-60A,wizard rod 5-70db,[     1278.5       657.5],[     1103.5       799.5],False,Spinning,Spinning
-564,Dran Buster 1-60A,wizard rod 5-70db,[     1277.5       649.5],[       1103         799],False,Spinning,Spinning
-565,Dran Buster 1-60A,wizard rod 5-70db,[       1278         627],[       1103       798.5],False,Spinning,Spinning
-566,Dran Buster 1-60A,wizard rod 5-70db,[     1275.5       623.5],[       1103         798],False,Spinning,Spinning
-567,Dran Buster 1-60A,wizard rod 5-70db,[     1102.5         798],,,Spinning,Spinning
-568,Dran Buster 1-60A,wizard rod 5-70db,[     1276.5         593],[     1102.5       797.5],False,Spinning,Spinning
-569,Dran Buster 1-60A,wizard rod 5-70db,[       1275       589.5],[       1103       797.5],False,Spinning,Spinning
-570,Dran Buster 1-60A,wizard rod 5-70db,[     1276.5         579],[       1103       797.5],False,Spinning,Spinning
-571,Dran Buster 1-60A,wizard rod 5-70db,[       1276         565],[       1103         798],False,Spinning,Spinning
-572,Dran Buster 1-60A,wizard rod 5-70db,[       1275         561],[       1103       797.5],False,Spinning,Spinning
-573,Dran Buster 1-60A,wizard rod 5-70db,[       1272         555],[     1102.5         798],False,Spinning,Spinning
-574,Dran Buster 1-60A,wizard rod 5-70db,[       1274         542],[       1103         798],False,Spinning,Spinning
-575,Dran Buster 1-60A,wizard rod 5-70db,[       1274         539],[     1102.5         798],False,Spinning,Spinning
-576,Dran Buster 1-60A,wizard rod 5-70db,[     1274.5       532.5],[     1102.5         798],False,Spinning,Spinning
-577,Dran Buster 1-60A,wizard rod 5-70db,[       1273       528.5],[     1102.5       798.5],False,Spinning,Spinning
-578,Dran Buster 1-60A,wizard rod 5-70db,[     1272.5       527.5],[     1102.5       798.5],False,Spinning,Stopped
-579,Dran Buster 1-60A,wizard rod 5-70db,[       1272         526],[     1102.5         798],False,Spinning,Stopped
-580,Dran Buster 1-60A,wizard rod 5-70db,[     1271.5         524],[     1102.5         798],False,Spinning,Stopped
-581,Dran Buster 1-60A,wizard rod 5-70db,[     1271.5         524],[     1102.5       797.5],False,Spinning,Stopped
-582,Dran Buster 1-60A,wizard rod 5-70db,[       1271       524.5],[     1102.5         798],False,Spinning,Stopped
-583,Dran Buster 1-60A,wizard rod 5-70db,[       1271         525],[       1103         798],False,Spinning,Stopped
-584,Dran Buster 1-60A,wizard rod 5-70db,[       1271       525.5],[       1103       797.5],False,Spinning,Stopped
-585,Dran Buster 1-60A,wizard rod 5-70db,[       1271       527.5],[       1103         798],False,Spinning,Stopped
-586,Dran Buster 1-60A,wizard rod 5-70db,[       1272       530.5],[       1103         799],False,Spinning,Stopped
-587,Dran Buster 1-60A,wizard rod 5-70db,[       1272       531.5],[       1103       799.5],False,Spinning,Stopped
-588,Dran Buster 1-60A,wizard rod 5-70db,[     1270.5       535.5],,,Stopped,Stopped
-589,Dran Buster 1-60A,wizard rod 5-70db,[       1269         542],,,Stopped,Stopped
-590,Dran Buster 1-60A,wizard rod 5-70db,[       1269         543],,,Stopped,Stopped
-591,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-592,Dran Buster 1-60A,wizard rod 5-70db,[     1267.5         561],,,Stopped,Stopped
-593,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-594,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-595,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-596,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-597,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-598,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-599,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-600,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-601,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-602,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-603,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-604,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-605,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-606,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
-607,Dran Buster 1-60A,wizard rod 5-70db,,,,Stopped,Stopped
+152,Dran Buster 1-60A,wizard rod 5-70db,[        999      1261.5],[        827         161],False,Spinning,Spinning
+153,Dran Buster 1-60A,wizard rod 5-70db,[        748         317],[     1118.5      1054.5],False,Spinning,Spinning
+154,Dran Buster 1-60A,wizard rod 5-70db,[     1159.5        1009],,,Spinning,Spinning
+155,Dran Buster 1-60A,wizard rod 5-70db,[      687.5         461],[     1242.5       920.5],False,Spinning,Spinning
+156,Dran Buster 1-60A,wizard rod 5-70db,[     1350.5       884.5],[      641.5       658.5],False,Spinning,Spinning
+157,Dran Buster 1-60A,wizard rod 5-70db,[      638.5       683.5],[       1388       887.5],False,Spinning,Spinning
+158,Dran Buster 1-60A,wizard rod 5-70db,[        643       760.5],[       1443         873],False,Spinning,Spinning
+159,Dran Buster 1-60A,wizard rod 5-70db,[      677.5         894],[       1512         741],False,Spinning,Spinning
+160,Dran Buster 1-60A,wizard rod 5-70db,[     1530.5       716.5],[        700         921],False,Spinning,Spinning
+161,Dran Buster 1-60A,wizard rod 5-70db,[        746       986.5],[     1556.5       670.5],False,Spinning,Spinning
+162,Dran Buster 1-60A,wizard rod 5-70db,[       1522       599.5],[      853.5      1063.5],False,Spinning,Spinning
+163,Dran Buster 1-60A,wizard rod 5-70db,[        892        1090],[       1494       583.5],False,Spinning,Spinning
+164,Dran Buster 1-60A,wizard rod 5-70db,[        970      1145.5],[     1430.5         559],False,Spinning,Spinning
+165,Dran Buster 1-60A,wizard rod 5-70db,[     1087.5        1208],[       1288         542],False,Spinning,Spinning
+166,Dran Buster 1-60A,wizard rod 5-70db,[     1234.5       544.5],[     1135.5      1225.5],False,Spinning,Spinning
+167,Dran Buster 1-60A,wizard rod 5-70db,[       1117         560],,,Spinning,Spinning
+168,Dran Buster 1-60A,wizard rod 5-70db,[      946.5         603],[     1421.5      1229.5],False,Spinning,Spinning
+169,Dran Buster 1-60A,wizard rod 5-70db,[      886.5         626],[       1483      1216.5],False,Spinning,Spinning
+170,Dran Buster 1-60A,wizard rod 5-70db,[      789.5         682],,,Spinning,Spinning
+171,Dran Buster 1-60A,wizard rod 5-70db,[        721         765],[     1752.5      1119.5],False,Spinning,Spinning
+172,Dran Buster 1-60A,wizard rod 5-70db,[        697       814.5],[     1802.5      1092.5],False,Spinning,Spinning
+173,Dran Buster 1-60A,wizard rod 5-70db,[        673         902],,,Spinning,Spinning
+174,Dran Buster 1-60A,wizard rod 5-70db,[      647.5      1047.5],[     1977.5       949.5],False,Spinning,Spinning
+175,Dran Buster 1-60A,wizard rod 5-70db,[       1998       921.5],[        726        1065],False,Spinning,Spinning
+176,Dran Buster 1-60A,wizard rod 5-70db,[      962.5        1078],[     2031.5         861],False,Spinning,Spinning
+177,Dran Buster 1-60A,wizard rod 5-70db,[     2077.5         783],[     1284.5        1122],False,Spinning,Spinning
+178,Dran Buster 1-60A,wizard rod 5-70db,[       2090         759],[       1392        1114],False,Spinning,Spinning
+179,Dran Buster 1-60A,wizard rod 5-70db,[     1580.5        1129],[     2101.5       716.5],False,Spinning,Spinning
+180,Dran Buster 1-60A,wizard rod 5-70db,[     2117.5       653.5],[     1792.5        1081],False,Spinning,Spinning
+181,Dran Buster 1-60A,wizard rod 5-70db,[       2123         634],[     1860.5      1011.5],False,Spinning,Spinning
+182,Dran Buster 1-60A,wizard rod 5-70db,[     2123.5       598.5],[       1956         862],False,Spinning,Spinning
+183,Dran Buster 1-60A,wizard rod 5-70db,[     1848.5         847],,,Spinning,Spinning
+184,Dran Buster 1-60A,wizard rod 5-70db,[     1752.5         880],,,Spinning,Spinning
+185,Dran Buster 1-60A,wizard rod 5-70db,[       1554       980.5],,,Spinning,Spinning
+186,Dran Buster 1-60A,wizard rod 5-70db,[       1270      1061.5],,,Spinning,Spinning
+187,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+188,Dran Buster 1-60A,wizard rod 5-70db,[       1023      1032.5],,,Spinning,Spinning
+189,Dran Buster 1-60A,wizard rod 5-70db,[        825         949],[       1056         100],False,Spinning,Spinning
+190,Dran Buster 1-60A,wizard rod 5-70db,[      951.5         143],[        766       926.5],False,Spinning,Spinning
+191,Dran Buster 1-60A,wizard rod 5-70db,[      644.5       881.5],[        791         171],False,Spinning,Spinning
+192,Dran Buster 1-60A,wizard rod 5-70db,[        472         826],,,Spinning,Spinning
+193,Dran Buster 1-60A,wizard rod 5-70db,[        439       818.5],[        503       339.5],False,Spinning,Spinning
+194,Dran Buster 1-60A,wizard rod 5-70db,[        573       765.5],[        396       549.5],False,Spinning,Spinning
+195,Dran Buster 1-60A,wizard rod 5-70db,[        481         891],[      759.5       728.5],False,Spinning,Spinning
+196,Dran Buster 1-60A,wizard rod 5-70db,[      824.5         732],,,Spinning,Spinning
+197,Dran Buster 1-60A,wizard rod 5-70db,[        967       752.5],,,Spinning,Spinning
+198,Dran Buster 1-60A,wizard rod 5-70db,[       1183       691.5],,,Spinning,Spinning
+199,Dran Buster 1-60A,wizard rod 5-70db,[       1341        1216],[     1251.5       682.5],False,Spinning,Spinning
+200,Dran Buster 1-60A,wizard rod 5-70db,[     1373.5       622.5],,,Spinning,Spinning
+201,Dran Buster 1-60A,wizard rod 5-70db,[       1935      1079.5],[     1547.5       542.5],False,Spinning,Spinning
+202,Dran Buster 1-60A,wizard rod 5-70db,[     1601.5         537],[     2024.5      1033.5],False,Spinning,Spinning
+203,Dran Buster 1-60A,wizard rod 5-70db,[     1696.5         522],[     2171.5         943],False,Spinning,Spinning
+204,Dran Buster 1-60A,wizard rod 5-70db,[       2253       795.5],[       1771         424],False,Spinning,Spinning
+205,Dran Buster 1-60A,wizard rod 5-70db,[       2207         761],[       1788       405.5],False,Spinning,Spinning
+206,Dran Buster 1-60A,wizard rod 5-70db,[     2122.5       687.5],[     1824.5       397.5],False,Spinning,Spinning
+207,Dran Buster 1-60A,wizard rod 5-70db,[       2009         596],,,Spinning,Spinning
+208,Dran Buster 1-60A,wizard rod 5-70db,[     1990.5         567],[     1849.5         358],False,Spinning,Spinning
+209,Dran Buster 1-60A,wizard rod 5-70db,[       1833       328.5],[       1943       522.5],True,Spinning,Spinning
+210,Dran Buster 1-60A,wizard rod 5-70db,[       1909         467],,,Spinning,Spinning
+211,Dran Buster 1-60A,wizard rod 5-70db,[     1887.5         447],,,Spinning,Spinning
+212,Dran Buster 1-60A,wizard rod 5-70db,[       1850         412],,,Spinning,Spinning
+213,Dran Buster 1-60A,wizard rod 5-70db,[     1798.5       356.5],,,Spinning,Spinning
+214,Dran Buster 1-60A,wizard rod 5-70db,[       1579         185],[       1778         338],False,Spinning,Spinning
+215,Dran Buster 1-60A,wizard rod 5-70db,[       1744       302.5],,,Spinning,Spinning
+216,Dran Buster 1-60A,wizard rod 5-70db,[     1693.5       239.5],,,Spinning,Spinning
+217,Dran Buster 1-60A,wizard rod 5-70db,[     1677.5       225.5],[     1442.5       166.5],True,Spinning,Spinning
+218,Dran Buster 1-60A,wizard rod 5-70db,[     1885.5       233.5],,,Spinning,Spinning
+219,Dran Buster 1-60A,wizard rod 5-70db,[        767       146.5],,,Spinning,Spinning
+220,Dran Buster 1-60A,wizard rod 5-70db,[        606         160],,,Spinning,Spinning
+221,Dran Buster 1-60A,wizard rod 5-70db,[       2135         583],,,Spinning,Spinning
+222,Dran Buster 1-60A,wizard rod 5-70db,[       1995       769.5],[      484.5         268],False,Spinning,Spinning
+223,Dran Buster 1-60A,wizard rod 5-70db,[       1948         820],[        557         311],False,Spinning,Spinning
+224,Dran Buster 1-60A,wizard rod 5-70db,[      690.5         426],,,Spinning,Spinning
+225,Dran Buster 1-60A,wizard rod 5-70db,[     1718.5        1056],[      879.5         455],False,Spinning,Spinning
+226,Dran Buster 1-60A,wizard rod 5-70db,[       1668      1104.5],,,Spinning,Spinning
+227,Dran Buster 1-60A,wizard rod 5-70db,[     1601.5      1159.5],,,Spinning,Spinning
+228,Dran Buster 1-60A,wizard rod 5-70db,[     1277.5         653],[     1493.5        1216],False,Spinning,Spinning
+229,Dran Buster 1-60A,wizard rod 5-70db,[     1343.5       663.5],[     1452.5        1232],False,Spinning,Spinning
+230,Dran Buster 1-60A,wizard rod 5-70db,[       1467         665],[       1395        1252],False,Spinning,Spinning
+231,Dran Buster 1-60A,wizard rod 5-70db,[     1626.5       659.5],[     1303.5      1259.5],False,Spinning,Spinning
+232,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+233,Dran Buster 1-60A,wizard rod 5-70db,[       1759       634.5],[       1236        1243],False,Spinning,Spinning
+234,Dran Buster 1-60A,wizard rod 5-70db,[       1191        1208],[       1814         565],False,Spinning,Spinning
+235,Dran Buster 1-60A,wizard rod 5-70db,[     1194.5        1185],[     1817.5         547],False,Spinning,Spinning
+236,Dran Buster 1-60A,wizard rod 5-70db,[       1204      1159.5],,,Spinning,Spinning
+237,Dran Buster 1-60A,wizard rod 5-70db,[     1246.5        1119],[     1883.5       486.5],False,Spinning,Spinning
+238,Dran Buster 1-60A,wizard rod 5-70db,[     1262.5        1108],[       1907         472],False,Spinning,Spinning
+239,Dran Buster 1-60A,wizard rod 5-70db,[       1311        1066],[       1939       431.5],False,Spinning,Spinning
+240,Dran Buster 1-60A,wizard rod 5-70db,[     1397.5        1043],[     2021.5         363],False,Spinning,Spinning
+241,Dran Buster 1-60A,wizard rod 5-70db,[     1955.5         336],[       1425        1032],False,Spinning,Spinning
+242,Dran Buster 1-60A,wizard rod 5-70db,[       1482      1020.5],[     1838.5         310],False,Spinning,Spinning
+243,Dran Buster 1-60A,wizard rod 5-70db,[     1640.5       339.5],[     1568.5      1004.5],False,Spinning,Spinning
+244,Dran Buster 1-60A,wizard rod 5-70db,[       1579       333.5],[       1593       983.5],False,Spinning,Spinning
+245,Dran Buster 1-60A,wizard rod 5-70db,[       1469         272],[     1625.5         943],False,Spinning,Spinning
+246,Dran Buster 1-60A,wizard rod 5-70db,[     1659.5       872.5],,,Spinning,Spinning
+247,Dran Buster 1-60A,wizard rod 5-70db,[       1242       276.5],[     1678.5         855],False,Spinning,Spinning
+248,Dran Buster 1-60A,wizard rod 5-70db,[     1707.5       821.5],[     1139.5         307],False,Spinning,Spinning
+249,Dran Buster 1-60A,wizard rod 5-70db,[       1015       328.5],[       1740       768.5],False,Spinning,Spinning
+250,Dran Buster 1-60A,wizard rod 5-70db,[       1741       752.5],[        978       358.5],False,Spinning,Spinning
+251,Dran Buster 1-60A,wizard rod 5-70db,[       1748         721],[      936.5       384.5],False,Spinning,Spinning
+252,Dran Buster 1-60A,wizard rod 5-70db,[      891.5         471],,,Spinning,Spinning
+253,Dran Buster 1-60A,wizard rod 5-70db,[       1750         661],,,Spinning,Spinning
+254,Dran Buster 1-60A,wizard rod 5-70db,[     1741.5       629.5],[        892       591.5],False,Spinning,Spinning
+255,Dran Buster 1-60A,wizard rod 5-70db,[       1723         590],[      947.5       715.5],False,Spinning,Spinning
+256,Dran Buster 1-60A,wizard rod 5-70db,[       1717         575],[        989         759],False,Spinning,Spinning
+257,Dran Buster 1-60A,wizard rod 5-70db,[     1057.5         851],[     1699.5       556.5],False,Spinning,Spinning
+258,Dran Buster 1-60A,wizard rod 5-70db,[       1665         518],[     1207.5       977.5],False,Spinning,Spinning
+259,Dran Buster 1-60A,wizard rod 5-70db,[       1654         511],[       1252        1016],False,Spinning,Spinning
+260,Dran Buster 1-60A,wizard rod 5-70db,[     1350.5      1069.5],[       1623         496],False,Spinning,Spinning
+261,Dran Buster 1-60A,wizard rod 5-70db,[       1565       470.5],[       1488        1077],False,Spinning,Spinning
+262,Dran Buster 1-60A,wizard rod 5-70db,[       1548       468.5],,,Spinning,Spinning
+263,Dran Buster 1-60A,wizard rod 5-70db,[       1504         463],[       1636        1103],False,Spinning,Spinning
+264,Dran Buster 1-60A,wizard rod 5-70db,[       1433         461],[       1763        1058],False,Spinning,Spinning
+265,Dran Buster 1-60A,wizard rod 5-70db,[     1412.5       464.5],,,Spinning,Spinning
+266,Dran Buster 1-60A,wizard rod 5-70db,[     1366.5       469.5],[     1866.5         795],False,Spinning,Spinning
+267,Dran Buster 1-60A,wizard rod 5-70db,[     1298.5         482],,,Spinning,Spinning
+268,Dran Buster 1-60A,wizard rod 5-70db,[       1958       476.5],[       1272         490],False,Spinning,Spinning
+269,Dran Buster 1-60A,wizard rod 5-70db,[     1237.5       499.5],[       1988       336.5],False,Spinning,Spinning
+270,Dran Buster 1-60A,wizard rod 5-70db,[     1695.5       271.5],[     1187.5       514.5],False,Spinning,Spinning
+271,Dran Buster 1-60A,wizard rod 5-70db,[       1172         529],[     1594.5       252.5],False,Spinning,Spinning
+272,Dran Buster 1-60A,wizard rod 5-70db,[       1416         220],[       1139         537],False,Spinning,Spinning
+273,Dran Buster 1-60A,wizard rod 5-70db,[       1105         565],[     1152.5         196],False,Spinning,Spinning
+274,Dran Buster 1-60A,wizard rod 5-70db,[     1093.5       572.5],[     1083.5         194],False,Spinning,Spinning
+275,Dran Buster 1-60A,wizard rod 5-70db,[     1079.5         579],[       1014       199.5],False,Spinning,Spinning
+276,Dran Buster 1-60A,wizard rod 5-70db,[      832.5       242.5],[       1050       603.5],False,Spinning,Spinning
+277,Dran Buster 1-60A,wizard rod 5-70db,[       1044         624],[        786         254],False,Spinning,Spinning
+278,Dran Buster 1-60A,wizard rod 5-70db,[     1026.5         641],[        675       310.5],False,Spinning,Spinning
+279,Dran Buster 1-60A,wizard rod 5-70db,[       1009         667],,,Spinning,Spinning
+280,Dran Buster 1-60A,wizard rod 5-70db,[     1001.5         686],[        487       428.5],False,Spinning,Spinning
+281,Dran Buster 1-60A,wizard rod 5-70db,[        992       700.5],[      397.5         503],False,Spinning,Spinning
+282,Dran Buster 1-60A,wizard rod 5-70db,[        985       725.5],,,Spinning,Spinning
+283,Dran Buster 1-60A,wizard rod 5-70db,[      464.5       755.5],,,Spinning,Spinning
+284,Dran Buster 1-60A,wizard rod 5-70db,[        988       761.5],,,Spinning,Spinning
+285,Dran Buster 1-60A,wizard rod 5-70db,[      987.5       783.5],[      738.5      1043.5],False,Spinning,Spinning
+286,Dran Buster 1-60A,wizard rod 5-70db,[      991.5       788.5],[        818        1110],False,Spinning,Spinning
+287,Dran Buster 1-60A,wizard rod 5-70db,[      960.5        1171],[        997       810.5],False,Spinning,Spinning
+288,Dran Buster 1-60A,wizard rod 5-70db,[     1019.5         821],,,Spinning,Spinning
+289,Dran Buster 1-60A,wizard rod 5-70db,[       1028         825],[       1277        1214],False,Spinning,Spinning
+290,Dran Buster 1-60A,wizard rod 5-70db,[     1417.5      1202.5],,,Spinning,Spinning
+291,Dran Buster 1-60A,wizard rod 5-70db,[     1077.5         845],,,Spinning,Spinning
+292,Dran Buster 1-60A,wizard rod 5-70db,[     1578.5        1135],,,Spinning,Spinning
+293,Dran Buster 1-60A,wizard rod 5-70db,[     1101.5         847],[     1623.5      1095.5],False,Spinning,Spinning
+294,Dran Buster 1-60A,wizard rod 5-70db,[       1126         845],,,Spinning,Spinning
+295,Dran Buster 1-60A,wizard rod 5-70db,[       1139         845],[     1661.5         991],False,Spinning,Spinning
+296,Dran Buster 1-60A,wizard rod 5-70db,[     1664.5       923.5],[     1152.5         840],False,Spinning,Spinning
+297,Dran Buster 1-60A,wizard rod 5-70db,[       1181       831.5],,,Spinning,Spinning
+298,Dran Buster 1-60A,wizard rod 5-70db,[     1191.5         827],[     1650.5         761],False,Spinning,Spinning
+299,Dran Buster 1-60A,wizard rod 5-70db,[       1209         818],,,Spinning,Spinning
+300,Dran Buster 1-60A,wizard rod 5-70db,[     1541.5         569],,,Spinning,Spinning
+301,Dran Buster 1-60A,wizard rod 5-70db,[     1243.5       793.5],[     1514.5       542.5],False,Spinning,Spinning
+302,Dran Buster 1-60A,wizard rod 5-70db,[       1261       783.5],[     1451.5         496],False,Spinning,Spinning
+303,Dran Buster 1-60A,wizard rod 5-70db,[       1285         759],[       1354       435.5],False,Spinning,Spinning
+304,Dran Buster 1-60A,wizard rod 5-70db,[     1292.5       753.5],[     1319.5         424],False,Spinning,Spinning
+305,Dran Buster 1-60A,wizard rod 5-70db,[       1252         397],,,Spinning,Spinning
+306,Dran Buster 1-60A,wizard rod 5-70db,[     1159.5         371],[     1321.5         709],False,Spinning,Spinning
+307,Dran Buster 1-60A,wizard rod 5-70db,[     1326.5         700],[       1126         364],False,Spinning,Spinning
+308,Dran Buster 1-60A,wizard rod 5-70db,[     1062.5       352.5],,,Spinning,Spinning
+309,Dran Buster 1-60A,wizard rod 5-70db,[       1340         654],[        962         349],False,Spinning,Spinning
+310,Dran Buster 1-60A,wizard rod 5-70db,[       1346       642.5],[      936.5         359],False,Spinning,Spinning
+311,Dran Buster 1-60A,wizard rod 5-70db,[     1347.5       626.5],[        895         396],False,Spinning,Spinning
+312,Dran Buster 1-60A,wizard rod 5-70db,[     1345.5       597.5],[      843.5       468.5],False,Spinning,Spinning
+313,Dran Buster 1-60A,wizard rod 5-70db,[       1343       592.5],[        830         501],False,Spinning,Spinning
+314,Dran Buster 1-60A,wizard rod 5-70db,[     1341.5         575],,,Spinning,Spinning
+315,Dran Buster 1-60A,wizard rod 5-70db,[        834         620],[       1331         556],False,Spinning,Spinning
+316,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+317,Dran Buster 1-60A,wizard rod 5-70db,[        888       691.5],[       1326       537.5],False,Spinning,Spinning
+318,Dran Buster 1-60A,wizard rod 5-70db,[     1307.5         528],[      985.5       748.5],False,Spinning,Spinning
+319,Dran Buster 1-60A,wizard rod 5-70db,[     1023.5       760.5],[     1302.5         526],False,Spinning,Spinning
+320,Dran Buster 1-60A,wizard rod 5-70db,[     1297.5         523],,,Spinning,Spinning
+321,Dran Buster 1-60A,wizard rod 5-70db,[     1294.5         515],[       1239         762],False,Spinning,Spinning
+322,Dran Buster 1-60A,wizard rod 5-70db,[     1292.5       512.5],[       1274         752],True,Spinning,Spinning
+323,Dran Buster 1-60A,wizard rod 5-70db,[       1290         509],[     1351.5         720],False,Spinning,Spinning
+324,Dran Buster 1-60A,wizard rod 5-70db,[     1456.5         688],[       1262         463],False,Spinning,Spinning
+325,Dran Buster 1-60A,wizard rod 5-70db,[       1247       433.5],[       1492       686.5],False,Spinning,Spinning
+326,Dran Buster 1-60A,wizard rod 5-70db,[     1225.5       390.5],[       1565       663.5],False,Spinning,Spinning
+327,Dran Buster 1-60A,wizard rod 5-70db,[     1194.5       348.5],[       1638         616],False,Spinning,Spinning
+328,Dran Buster 1-60A,wizard rod 5-70db,[       1655       592.5],[       1181         342],False,Spinning,Spinning
+329,Dran Buster 1-60A,wizard rod 5-70db,[       1158         339],[     1682.5         554],False,Spinning,Spinning
+330,Dran Buster 1-60A,wizard rod 5-70db,[       1689         495],[       1121         337],False,Spinning,Spinning
+331,Dran Buster 1-60A,wizard rod 5-70db,[     1106.5         337],,,Spinning,Spinning
+332,Dran Buster 1-60A,wizard rod 5-70db,[       1611       467.5],[     1092.5       339.5],False,Spinning,Spinning
+333,Dran Buster 1-60A,wizard rod 5-70db,[     1071.5       346.5],[       1547       455.5],False,Spinning,Spinning
+334,Dran Buster 1-60A,wizard rod 5-70db,[     1065.5       348.5],[     1520.5       456.5],False,Spinning,Spinning
+335,Dran Buster 1-60A,wizard rod 5-70db,[     1473.5         466],[       1048         360],False,Spinning,Spinning
+336,Dran Buster 1-60A,wizard rod 5-70db,[     1036.5         372],[     1396.5       500.5],False,Spinning,Spinning
+337,Dran Buster 1-60A,wizard rod 5-70db,[       1033       377.5],,,Spinning,Spinning
+338,Dran Buster 1-60A,wizard rod 5-70db,[       1320         558],,,Spinning,Spinning
+339,Dran Buster 1-60A,wizard rod 5-70db,[       1264       631.5],[       1018         411],False,Spinning,Spinning
+340,Dran Buster 1-60A,wizard rod 5-70db,[       1244         656],,,Spinning,Spinning
+341,Dran Buster 1-60A,wizard rod 5-70db,[       1014         440],[     1225.5       715.5],False,Spinning,Spinning
+342,Dran Buster 1-60A,wizard rod 5-70db,[       1215       788.5],[       1013       471.5],False,Spinning,Spinning
+343,Dran Buster 1-60A,wizard rod 5-70db,[       1216         817],[     1014.5       483.5],False,Spinning,Spinning
+344,Dran Buster 1-60A,wizard rod 5-70db,[     1020.5       504.5],,,Spinning,Spinning
+345,Dran Buster 1-60A,wizard rod 5-70db,[       1037       538.5],,,Spinning,Spinning
+346,Dran Buster 1-60A,wizard rod 5-70db,[       1295       936.5],[       1042         555],False,Spinning,Spinning
+347,Dran Buster 1-60A,wizard rod 5-70db,[     1054.5       575.5],,,Spinning,Spinning
+348,Dran Buster 1-60A,wizard rod 5-70db,[     1397.5       982.5],,,Spinning,Spinning
+349,Dran Buster 1-60A,wizard rod 5-70db,[       1087         623],[     1411.5       980.5],False,Spinning,Spinning
+350,Dran Buster 1-60A,wizard rod 5-70db,[       1455         957],,,Spinning,Spinning
+351,Dran Buster 1-60A,wizard rod 5-70db,[     1492.5         922],,,Spinning,Spinning
+352,Dran Buster 1-60A,wizard rod 5-70db,[       1153         687],[     1497.5       896.5],False,Spinning,Spinning
+353,Dran Buster 1-60A,wizard rod 5-70db,[       1178         704],[     1494.5         856],False,Spinning,Spinning
+354,Dran Buster 1-60A,wizard rod 5-70db,[       1465         788],[     1217.5       726.5],False,Spinning,Spinning
+355,Dran Buster 1-60A,wizard rod 5-70db,[     1150.5       697.5],[     1507.5         789],False,Spinning,Spinning
+356,Dran Buster 1-60A,wizard rod 5-70db,[      990.5       632.5],[       1610       802.5],False,Spinning,Spinning
+357,Dran Buster 1-60A,wizard rod 5-70db,[        807         541],[     1723.5       792.5],False,Spinning,Spinning
+358,Dran Buster 1-60A,wizard rod 5-70db,[     1737.5       786.5],,,Spinning,Spinning
+359,Dran Buster 1-60A,wizard rod 5-70db,[     1758.5         762],,,Spinning,Spinning
+360,Dran Buster 1-60A,wizard rod 5-70db,[        643       474.5],[     1792.5       754.5],False,Spinning,Spinning
+361,Dran Buster 1-60A,wizard rod 5-70db,[     1813.5       759.5],[      630.5       471.5],False,Spinning,Spinning
+362,Dran Buster 1-60A,wizard rod 5-70db,[        609         470],[       1845       785.5],False,Spinning,Spinning
+363,Dran Buster 1-60A,wizard rod 5-70db,[     1898.5       825.5],[      566.5         471],False,Spinning,Spinning
+364,Dran Buster 1-60A,wizard rod 5-70db,[      548.5       469.5],,,Spinning,Spinning
+365,Dran Buster 1-60A,wizard rod 5-70db,[       1948         850],[      510.5       462.5],False,Spinning,Spinning
+366,Dran Buster 1-60A,wizard rod 5-70db,[        474       446.5],[     1976.5       868.5],False,Spinning,Spinning
+367,Dran Buster 1-60A,wizard rod 5-70db,[      462.5       445.5],[       1992         876],False,Spinning,Spinning
+368,Dran Buster 1-60A,wizard rod 5-70db,[     2006.5         873],[        439       434.5],False,Spinning,Spinning
+369,Dran Buster 1-60A,wizard rod 5-70db,[       1998         852],,,Spinning,Spinning
+370,Dran Buster 1-60A,wizard rod 5-70db,[        494         513],[       1994       855.5],False,Spinning,Spinning
+371,Dran Buster 1-60A,wizard rod 5-70db,[     1987.5       845.5],[        504         536],False,Spinning,Spinning
+372,Dran Buster 1-60A,wizard rod 5-70db,[      514.5         555],,,Spinning,Spinning
+373,Dran Buster 1-60A,wizard rod 5-70db,[        517       556.5],,,Spinning,Spinning
+374,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+375,Dran Buster 1-60A,wizard rod 5-70db,[      519.5       535.5],[     1894.5       806.5],False,Spinning,Spinning
+376,Dran Buster 1-60A,wizard rod 5-70db,[      519.5       532.5],,,Spinning,Spinning
+377,Dran Buster 1-60A,wizard rod 5-70db,[        527       527.5],[       1847         789],False,Spinning,Spinning
+378,Dran Buster 1-60A,wizard rod 5-70db,[       1781       765.5],,,Spinning,Spinning
+379,Dran Buster 1-60A,wizard rod 5-70db,[       1761         755],,,Spinning,Spinning
+380,Dran Buster 1-60A,wizard rod 5-70db,[      544.5         508],,,Spinning,Spinning
+381,Dran Buster 1-60A,wizard rod 5-70db,[      562.5       501.5],,,Spinning,Spinning
+382,Dran Buster 1-60A,wizard rod 5-70db,[        568         499],[       1603         704],False,Spinning,Spinning
+383,Dran Buster 1-60A,wizard rod 5-70db,[        581       496.5],[       1551         670],False,Spinning,Spinning
+384,Dran Buster 1-60A,wizard rod 5-70db,[      604.5       492.5],[     1468.5         640],False,Spinning,Spinning
+385,Dran Buster 1-60A,wizard rod 5-70db,[      614.5         493],[     1444.5         631],False,Spinning,Spinning
+386,Dran Buster 1-60A,wizard rod 5-70db,[     1391.5       609.5],,,Spinning,Spinning
+387,Dran Buster 1-60A,wizard rod 5-70db,[      662.5       492.5],[     1329.5         577],False,Spinning,Spinning
+388,Dran Buster 1-60A,wizard rod 5-70db,[       1303       560.5],,,Spinning,Spinning
+389,Dran Buster 1-60A,wizard rod 5-70db,[      695.5         493],,,Spinning,Spinning
+390,Dran Buster 1-60A,wizard rod 5-70db,[        727         493],[       1213       519.5],False,Spinning,Spinning
+391,Dran Buster 1-60A,wizard rod 5-70db,[      742.5       495.5],[       1199         510],False,Spinning,Spinning
+392,Dran Buster 1-60A,wizard rod 5-70db,[        767       499.5],[       1175       496.5],False,Spinning,Spinning
+393,Dran Buster 1-60A,wizard rod 5-70db,[       1144         473],[      814.5       537.5],False,Spinning,Spinning
+394,Dran Buster 1-60A,wizard rod 5-70db,[       1141       469.5],[        823         552],False,Spinning,Spinning
+395,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+396,Dran Buster 1-60A,wizard rod 5-70db,[      898.5       627.5],[       1114         407],False,Spinning,Spinning
+397,Dran Buster 1-60A,wizard rod 5-70db,[       1108         394],,,Spinning,Spinning
+398,Dran Buster 1-60A,wizard rod 5-70db,[       1110         373],,,Spinning,Spinning
+399,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+400,Dran Buster 1-60A,wizard rod 5-70db,[     1107.5       336.5],[     1025.5         716],False,Spinning,Spinning
+401,Dran Buster 1-60A,wizard rod 5-70db,[     1106.5         334],[     1068.5       740.5],False,Spinning,Spinning
+402,Dran Buster 1-60A,wizard rod 5-70db,[       1116         347],,,Spinning,Spinning
+403,Dran Buster 1-60A,wizard rod 5-70db,[       1121         356],[       1153         774],False,Spinning,Spinning
+404,Dran Buster 1-60A,wizard rod 5-70db,[     1136.5       374.5],[       1206       794.5],False,Spinning,Spinning
+405,Dran Buster 1-60A,wizard rod 5-70db,[       1160       406.5],[     1272.5       813.5],False,Spinning,Spinning
+406,Dran Buster 1-60A,wizard rod 5-70db,[     1292.5         819],[       1168       428.5],False,Spinning,Spinning
+407,Dran Buster 1-60A,wizard rod 5-70db,[     1187.5         452],,,Spinning,Spinning
+408,Dran Buster 1-60A,wizard rod 5-70db,[     1235.5         502],,,Spinning,Spinning
+409,Dran Buster 1-60A,wizard rod 5-70db,[       1243         524],,,Spinning,Spinning
+410,Dran Buster 1-60A,wizard rod 5-70db,[       1282       556.5],,,Spinning,Spinning
+411,Dran Buster 1-60A,wizard rod 5-70db,[     1330.5       603.5],,,Spinning,Spinning
+412,Dran Buster 1-60A,wizard rod 5-70db,[       1345       619.5],[     1537.5         828],False,Spinning,Spinning
+413,Dran Buster 1-60A,wizard rod 5-70db,[     1572.5         823],[       1374       651.5],False,Spinning,Spinning
+414,Dran Buster 1-60A,wizard rod 5-70db,[       1415       691.5],,,Spinning,Spinning
+415,Dran Buster 1-60A,wizard rod 5-70db,[     1631.5         809],[       1432         701],True,Spinning,Spinning
+416,Dran Buster 1-60A,wizard rod 5-70db,[       1454       727.5],[       1666         804],False,Spinning,Spinning
+417,Dran Buster 1-60A,wizard rod 5-70db,[       1473       757.5],[     1716.5         815],False,Spinning,Spinning
+418,Dran Buster 1-60A,wizard rod 5-70db,[       1481         757],[       1717         816],True,Spinning,Spinning
+419,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+420,Dran Buster 1-60A,wizard rod 5-70db,[       1502       790.5],[       1737         812],False,Spinning,Spinning
+421,Dran Buster 1-60A,wizard rod 5-70db,[     1752.5       818.5],,,Spinning,Spinning
+422,Dran Buster 1-60A,wizard rod 5-70db,[       1766         833],,,Spinning,Spinning
+423,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+424,Dran Buster 1-60A,wizard rod 5-70db,[       1488         815],,,Spinning,Spinning
+425,Dran Buster 1-60A,wizard rod 5-70db,[     1795.5         907],[       1465         805],False,Spinning,Spinning
+426,Dran Buster 1-60A,wizard rod 5-70db,[     1804.5         930],,,Spinning,Spinning
+427,Dran Buster 1-60A,wizard rod 5-70db,[     1804.5       937.5],[       1424         802],False,Spinning,Spinning
+428,Dran Buster 1-60A,wizard rod 5-70db,[     1808.5         949],[     1397.5       794.5],False,Spinning,Spinning
+429,Dran Buster 1-60A,wizard rod 5-70db,[     1352.5         791],[       1806       969.5],False,Spinning,Spinning
+430,Dran Buster 1-60A,wizard rod 5-70db,[       1805         976],[       1332       780.5],False,Spinning,Spinning
+431,Dran Buster 1-60A,wizard rod 5-70db,[       1803         993],,,Spinning,Spinning
+432,Dran Buster 1-60A,wizard rod 5-70db,[     1792.5        1016],[       1255       759.5],False,Spinning,Spinning
+433,Dran Buster 1-60A,wizard rod 5-70db,[       1788        1020],[     1231.5       751.5],False,Spinning,Spinning
+434,Dran Buster 1-60A,wizard rod 5-70db,[     1782.5      1031.5],,,Spinning,Spinning
+435,Dran Buster 1-60A,wizard rod 5-70db,[     1145.5       722.5],[     1759.5        1036],False,Spinning,Spinning
+436,Dran Buster 1-60A,wizard rod 5-70db,[       1131       725.5],[       1754      1039.5],False,Spinning,Spinning
+437,Dran Buster 1-60A,wizard rod 5-70db,[     1738.5      1042.5],,,Spinning,Spinning
+438,Dran Buster 1-60A,wizard rod 5-70db,[     1714.5        1042],[     1063.5       689.5],False,Spinning,Spinning
+439,Dran Buster 1-60A,wizard rod 5-70db,[     1700.5        1044],[     1051.5       685.5],False,Spinning,Spinning
+440,Dran Buster 1-60A,wizard rod 5-70db,[     1689.5        1042],[     1034.5       674.5],False,Spinning,Spinning
+441,Dran Buster 1-60A,wizard rod 5-70db,[     1012.5       658.5],[     1657.5        1039],False,Spinning,Spinning
+442,Dran Buster 1-60A,wizard rod 5-70db,[       1642      1037.5],[     1013.5       652.5],False,Spinning,Spinning
+443,Dran Buster 1-60A,wizard rod 5-70db,[       1623        1037],,,Spinning,Spinning
+444,Dran Buster 1-60A,wizard rod 5-70db,[     1588.5      1028.5],[     1012.5       633.5],False,Spinning,Spinning
+445,Dran Buster 1-60A,wizard rod 5-70db,[       1577        1026],[     1021.5         630],False,Spinning,Spinning
+446,Dran Buster 1-60A,wizard rod 5-70db,[     1040.5       629.5],[     1553.5      1006.5],False,Spinning,Spinning
+447,Dran Buster 1-60A,wizard rod 5-70db,[       1522       957.5],[       1051       617.5],False,Spinning,Spinning
+448,Dran Buster 1-60A,wizard rod 5-70db,[       1071       622.5],[     1508.5       944.5],False,Spinning,Spinning
+449,Dran Buster 1-60A,wizard rod 5-70db,[     1500.5         914],[     1091.5         611],False,Spinning,Spinning
+450,Dran Buster 1-60A,wizard rod 5-70db,[       1479         874],,,Spinning,Spinning
+451,Dran Buster 1-60A,wizard rod 5-70db,[       1470       857.5],,,Spinning,Spinning
+452,Dran Buster 1-60A,wizard rod 5-70db,[     1455.5       830.5],[     1176.5         592],False,Spinning,Spinning
+453,Dran Buster 1-60A,wizard rod 5-70db,[       1225       593.5],[     1427.5         786],False,Spinning,Spinning
+454,Dran Buster 1-60A,wizard rod 5-70db,[       1414         768],[     1238.5       594.5],True,Spinning,Spinning
+455,Dran Buster 1-60A,wizard rod 5-70db,[       1280         571],,,Spinning,Spinning
+456,Dran Buster 1-60A,wizard rod 5-70db,[     1321.5         538],[     1387.5       753.5],False,Spinning,Spinning
+457,Dran Buster 1-60A,wizard rod 5-70db,[     1375.5         758],[       1335         523],False,Spinning,Spinning
+458,Dran Buster 1-60A,wizard rod 5-70db,[       1351       755.5],[       1356       523.5],False,Spinning,Spinning
+459,Dran Buster 1-60A,wizard rod 5-70db,[       1366         509],[     1318.5         730],False,Spinning,Spinning
+460,Dran Buster 1-60A,wizard rod 5-70db,[     1362.5         501],[     1310.5         723],False,Spinning,Spinning
+461,Dran Buster 1-60A,wizard rod 5-70db,[     1387.5         495],,,Spinning,Spinning
+462,Dran Buster 1-60A,wizard rod 5-70db,[       1430       499.5],,,Spinning,Spinning
+463,Dran Buster 1-60A,wizard rod 5-70db,[     1281.5         664],,,Spinning,Spinning
+464,Dran Buster 1-60A,wizard rod 5-70db,[     1441.5       514.5],,,Spinning,Spinning
+465,Dran Buster 1-60A,wizard rod 5-70db,[       1208         632],[       1455       524.5],False,Spinning,Spinning
+466,Dran Buster 1-60A,wizard rod 5-70db,[       1193         626],[       1457       526.5],False,Spinning,Spinning
+467,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+468,Dran Buster 1-60A,wizard rod 5-70db,[     1139.5         599],[       1427       591.5],False,Spinning,Spinning
+469,Dran Buster 1-60A,wizard rod 5-70db,[       1134       595.5],[       1417       601.5],False,Spinning,Spinning
+470,Dran Buster 1-60A,wizard rod 5-70db,[     1387.5       635.5],[       1111         590],False,Spinning,Spinning
+471,Dran Buster 1-60A,wizard rod 5-70db,[       1095       574.5],[       1354         682],False,Spinning,Spinning
+472,Dran Buster 1-60A,wizard rod 5-70db,[     1085.5         570],,,Spinning,Spinning
+473,Dran Buster 1-60A,wizard rod 5-70db,[       1312         696],[       1076         563],False,Spinning,Spinning
+474,Dran Buster 1-60A,wizard rod 5-70db,[     1057.5         559],[       1295         698],False,Spinning,Spinning
+475,Dran Buster 1-60A,wizard rod 5-70db,[       1051       556.5],[     1292.5         694],False,Spinning,Spinning
+476,Dran Buster 1-60A,wizard rod 5-70db,[       1285       678.5],,,Spinning,Spinning
+477,Dran Buster 1-60A,wizard rod 5-70db,[     1273.5       655.5],,,Spinning,Spinning
+478,Dran Buster 1-60A,wizard rod 5-70db,[       1272         650],[       1036       545.5],False,Spinning,Spinning
+479,Dran Buster 1-60A,wizard rod 5-70db,[     1270.5       637.5],[       1033         542],False,Spinning,Spinning
+480,Dran Buster 1-60A,wizard rod 5-70db,[       1279       627.5],[       1031         542],False,Spinning,Spinning
+481,Dran Buster 1-60A,wizard rod 5-70db,[     1282.5       625.5],[     1030.5       541.5],False,Spinning,Spinning
+482,Dran Buster 1-60A,wizard rod 5-70db,[     1281.5         621],[     1031.5       542.5],False,Spinning,Spinning
+483,Dran Buster 1-60A,wizard rod 5-70db,[     1036.5         543],[     1279.5       633.5],False,Spinning,Spinning
+484,Dran Buster 1-60A,wizard rod 5-70db,[     1275.5       631.5],[     1037.5       544.5],False,Spinning,Spinning
+485,Dran Buster 1-60A,wizard rod 5-70db,[       1270       630.5],,,Spinning,Spinning
+486,Dran Buster 1-60A,wizard rod 5-70db,[       1282         638],,,Spinning,Spinning
+487,Dran Buster 1-60A,wizard rod 5-70db,[       1280       637.5],[       1052       553.5],True,Spinning,Spinning
+488,Dran Buster 1-60A,wizard rod 5-70db,[       1065       558.5],,,Spinning,Spinning
+489,Dran Buster 1-60A,wizard rod 5-70db,[     1078.5         563],[     1284.5         663],False,Spinning,Spinning
+490,Dran Buster 1-60A,wizard rod 5-70db,[       1086       565.5],[       1280       665.5],False,Spinning,Spinning
+491,Dran Buster 1-60A,wizard rod 5-70db,[     1105.5         572],[     1271.5       685.5],False,Spinning,Spinning
+492,Dran Buster 1-60A,wizard rod 5-70db,[       1113       569.5],[     1258.5       709.5],False,Spinning,Spinning
+493,Dran Buster 1-60A,wizard rod 5-70db,[     1115.5       566.5],[     1265.5         716],False,Spinning,Spinning
+494,Dran Buster 1-60A,wizard rod 5-70db,[       1130         566],,,Spinning,Spinning
+495,Dran Buster 1-60A,wizard rod 5-70db,[       1148       574.5],[     1249.5         752],False,Spinning,Spinning
+496,Dran Buster 1-60A,wizard rod 5-70db,[     1149.5       556.5],[       1238         764],False,Spinning,Spinning
+497,Dran Buster 1-60A,wizard rod 5-70db,[     1226.5       784.5],[     1162.5         524],False,Spinning,Spinning
+498,Dran Buster 1-60A,wizard rod 5-70db,[       1191         491],[     1202.5       854.5],False,Spinning,Spinning
+499,Dran Buster 1-60A,wizard rod 5-70db,[     1189.5         875],,,Spinning,Spinning
+500,Dran Buster 1-60A,wizard rod 5-70db,[       1167       882.5],[       1204         478],False,Spinning,Spinning
+501,Dran Buster 1-60A,wizard rod 5-70db,[       1204       475.5],[       1149         876],False,Spinning,Spinning
+502,Dran Buster 1-60A,wizard rod 5-70db,[       1208       474.5],[       1150       858.5],False,Spinning,Spinning
+503,Dran Buster 1-60A,wizard rod 5-70db,[     1213.5         474],,,Spinning,Spinning
+504,Dran Buster 1-60A,wizard rod 5-70db,[     1128.5         819],[       1225       476.5],False,Spinning,Spinning
+505,Dran Buster 1-60A,wizard rod 5-70db,[     1120.5       811.5],[       1227         477],False,Spinning,Spinning
+506,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+507,Dran Buster 1-60A,wizard rod 5-70db,[       1110       808.5],,,Spinning,Spinning
+508,Dran Buster 1-60A,wizard rod 5-70db,[       1239         491],[       1110       807.5],False,Spinning,Spinning
+509,Dran Buster 1-60A,wizard rod 5-70db,[     1247.5         497],,,Spinning,Spinning
+510,Dran Buster 1-60A,wizard rod 5-70db,[       1261       507.5],[       1109         804],False,Spinning,Spinning
+511,Dran Buster 1-60A,wizard rod 5-70db,[     1264.5       512.5],,,Spinning,Spinning
+512,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+513,Dran Buster 1-60A,wizard rod 5-70db,[     1277.5         533],,,Spinning,Spinning
+514,Dran Buster 1-60A,wizard rod 5-70db,[     1279.5       539.5],[     1109.5       802.5],False,Spinning,Spinning
+515,Dran Buster 1-60A,wizard rod 5-70db,[       1287         555],,,Spinning,Spinning
+516,Dran Buster 1-60A,wizard rod 5-70db,[     1299.5         572],,,Spinning,Spinning
+517,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+518,Dran Buster 1-60A,wizard rod 5-70db,[       1304       591.5],,,Spinning,Spinning
+519,Dran Buster 1-60A,wizard rod 5-70db,[       1315       611.5],,,Spinning,Spinning
+520,Dran Buster 1-60A,wizard rod 5-70db,[       1317         622],,,Spinning,Spinning
+521,Dran Buster 1-60A,wizard rod 5-70db,[     1326.5       634.5],,,Spinning,Spinning
+522,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+523,Dran Buster 1-60A,wizard rod 5-70db,[       1331       660.5],,,Spinning,Spinning
+524,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+525,Dran Buster 1-60A,wizard rod 5-70db,[     1338.5       696.5],,,Spinning,Spinning
+526,Dran Buster 1-60A,wizard rod 5-70db,[     1340.5       702.5],,,Spinning,Spinning
+527,Dran Buster 1-60A,wizard rod 5-70db,[       1343         718],,,Spinning,Spinning
+528,Dran Buster 1-60A,wizard rod 5-70db,[     1346.5         731],,,Spinning,Spinning
+529,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+530,Dran Buster 1-60A,wizard rod 5-70db,[     1345.5         753],,,Spinning,Spinning
+531,Dran Buster 1-60A,wizard rod 5-70db,[       1344       765.5],,,Spinning,Spinning
+532,Dran Buster 1-60A,wizard rod 5-70db,[       1342       770.5],,,Spinning,Spinning
+533,Dran Buster 1-60A,wizard rod 5-70db,[       1339         783],,,Spinning,Spinning
+534,Dran Buster 1-60A,wizard rod 5-70db,[     1335.5         790],,,Spinning,Spinning
+535,Dran Buster 1-60A,wizard rod 5-70db,[       1333         792],,,Spinning,Spinning
+536,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Spinning
+537,Dran Buster 1-60A,wizard rod 5-70db,[     1319.5         811],,,Spinning,Spinning
+538,Dran Buster 1-60A,wizard rod 5-70db,[     1315.5         814],,,Spinning,Spinning
+539,Dran Buster 1-60A,wizard rod 5-70db,[     1311.5         816],,,Spinning,Spinning
+540,Dran Buster 1-60A,wizard rod 5-70db,[       1303         819],[     1103.5         805],True,Spinning,Spinning
+541,Dran Buster 1-60A,wizard rod 5-70db,[       1103       804.5],,,Spinning,Spinning
+542,Dran Buster 1-60A,wizard rod 5-70db,[     1101.5       805.5],,,Spinning,Spinning
+543,Dran Buster 1-60A,wizard rod 5-70db,[       1097         805],[       1284         818],False,Spinning,Spinning
+544,Dran Buster 1-60A,wizard rod 5-70db,[       1096       805.5],[       1282         817],False,Spinning,Spinning
+545,Dran Buster 1-60A,wizard rod 5-70db,[       1095         806],,,Spinning,Spinning
+546,Dran Buster 1-60A,wizard rod 5-70db,[     1091.5         806],[     1268.5       798.5],False,Spinning,Spinning
+547,Dran Buster 1-60A,wizard rod 5-70db,[     1091.5         806],[       1268         798],False,Spinning,Spinning
+548,Dran Buster 1-60A,wizard rod 5-70db,[       1092         804],[       1267         796],False,Spinning,Spinning
+549,Dran Buster 1-60A,wizard rod 5-70db,[     1090.5         802],[     1267.5         791],False,Spinning,Spinning
+550,Dran Buster 1-60A,wizard rod 5-70db,[       1090       801.5],[       1267         790],False,Spinning,Spinning
+551,Dran Buster 1-60A,wizard rod 5-70db,[     1089.5         799],[     1267.5         786],False,Spinning,Spinning
+552,Dran Buster 1-60A,wizard rod 5-70db,[       1092       800.5],[     1270.5       770.5],False,Spinning,Spinning
+553,Dran Buster 1-60A,wizard rod 5-70db,[       1094         802],[     1270.5         764],False,Spinning,Spinning
+554,Dran Buster 1-60A,wizard rod 5-70db,[       1273         755],[       1096         801],False,Spinning,Spinning
+555,Dran Buster 1-60A,wizard rod 5-70db,[     1098.5         800],[       1274         737],False,Spinning,Spinning
+556,Dran Buster 1-60A,wizard rod 5-70db,[       1275         729],[       1099         800],False,Spinning,Spinning
+557,Dran Buster 1-60A,wizard rod 5-70db,[       1274       721.5],[       1101         800],False,Spinning,Spinning
+558,Dran Buster 1-60A,wizard rod 5-70db,[     1274.5       703.5],[       1102       800.5],False,Spinning,Spinning
+559,Dran Buster 1-60A,wizard rod 5-70db,[     1276.5         696],[     1103.5       800.5],False,Spinning,Spinning
+560,Dran Buster 1-60A,wizard rod 5-70db,[     1275.5         687],[       1104       799.5],False,Spinning,Spinning
+561,Dran Buster 1-60A,wizard rod 5-70db,[       1280         663],[       1103       799.5],False,Spinning,Spinning
+562,Dran Buster 1-60A,wizard rod 5-70db,[     1278.5       657.5],[     1103.5       799.5],False,Spinning,Spinning
+563,Dran Buster 1-60A,wizard rod 5-70db,[     1277.5       649.5],[       1103         799],False,Spinning,Spinning
+564,Dran Buster 1-60A,wizard rod 5-70db,[       1278         627],[       1103       798.5],False,Spinning,Spinning
+565,Dran Buster 1-60A,wizard rod 5-70db,[     1275.5       623.5],[       1103         798],False,Spinning,Stopped
+566,Dran Buster 1-60A,wizard rod 5-70db,[     1102.5         798],,,Spinning,Stopped
+567,Dran Buster 1-60A,wizard rod 5-70db,[     1276.5         593],[     1102.5       797.5],False,Spinning,Stopped
+568,Dran Buster 1-60A,wizard rod 5-70db,[       1275       589.5],[       1103       797.5],False,Spinning,Stopped
+569,Dran Buster 1-60A,wizard rod 5-70db,[     1276.5         579],[       1103       797.5],False,Spinning,Stopped
+570,Dran Buster 1-60A,wizard rod 5-70db,[       1276         565],[       1103         798],False,Spinning,Stopped
+571,Dran Buster 1-60A,wizard rod 5-70db,[       1275         561],[       1103       797.5],False,Spinning,Stopped
+572,Dran Buster 1-60A,wizard rod 5-70db,[       1272         555],[     1102.5         798],False,Spinning,Stopped
+573,Dran Buster 1-60A,wizard rod 5-70db,[       1274         542],[       1103         798],False,Spinning,Stopped
+574,Dran Buster 1-60A,wizard rod 5-70db,[       1274         539],[     1102.5         798],False,Spinning,Stopped
+575,Dran Buster 1-60A,wizard rod 5-70db,[     1274.5       532.5],[     1102.5         798],False,Spinning,Stopped
+576,Dran Buster 1-60A,wizard rod 5-70db,[       1273       528.5],[     1102.5       798.5],False,Spinning,Stopped
+577,Dran Buster 1-60A,wizard rod 5-70db,[     1272.5       527.5],[     1102.5       798.5],False,Spinning,Stopped
+578,Dran Buster 1-60A,wizard rod 5-70db,[       1272         526],[     1102.5         798],False,Spinning,Stopped
+579,Dran Buster 1-60A,wizard rod 5-70db,[     1271.5         524],[     1102.5         798],False,Spinning,Stopped
+580,Dran Buster 1-60A,wizard rod 5-70db,[     1271.5         524],[     1102.5       797.5],False,Spinning,Stopped
+581,Dran Buster 1-60A,wizard rod 5-70db,[       1271       524.5],[     1102.5         798],False,Spinning,Stopped
+582,Dran Buster 1-60A,wizard rod 5-70db,[       1271         525],[       1103         798],False,Spinning,Stopped
+583,Dran Buster 1-60A,wizard rod 5-70db,[       1271       525.5],[       1103       797.5],False,Spinning,Stopped
+584,Dran Buster 1-60A,wizard rod 5-70db,[       1271       527.5],[       1103         798],False,Spinning,Stopped
+585,Dran Buster 1-60A,wizard rod 5-70db,[       1272       530.5],[       1103         799],False,Spinning,Stopped
+586,Dran Buster 1-60A,wizard rod 5-70db,[       1272       531.5],[       1103       799.5],False,Spinning,Stopped
+587,Dran Buster 1-60A,wizard rod 5-70db,[     1270.5       535.5],,,Spinning,Stopped
+588,Dran Buster 1-60A,wizard rod 5-70db,[       1269         542],,,Spinning,Stopped
+589,Dran Buster 1-60A,wizard rod 5-70db,[       1269         543],,,Spinning,Stopped
+590,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+591,Dran Buster 1-60A,wizard rod 5-70db,[     1267.5         561],,,Spinning,Stopped
+592,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+593,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+594,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+595,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+596,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+597,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+598,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+599,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+600,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+601,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+602,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+603,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+604,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+605,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
+606,Dran Buster 1-60A,wizard rod 5-70db,,,,Spinning,Stopped
