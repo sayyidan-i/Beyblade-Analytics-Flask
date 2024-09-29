@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyblade Battle Results</title>
+</head>
+<body>
+    <h1>Beyblade Battle Results</h1>
+    {% if result_data %}
+        <p>Type 1: {{ result_data.type1 }}</p>
+        <p>Type 2: {{ result_data.type2 }}</p>
+        <p>Winner: {{ result_data.winner }}</p>
+        <p>Loser Time: {{ result_data.loser_time }}</p>
+        <p>Winner Time: {{ result_data.winner_time }}</p>
+        <p>Win Reason: {{ result_data.win_reason }}</p>
+        <p>Collision Count: {{ result_data.collision_count_approx }}</p>
+    {% else %}
+        <p>No results available.</p>
+    {% endif %}
+</body>
+</html>

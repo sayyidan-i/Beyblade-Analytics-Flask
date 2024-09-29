@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.drop-area {
+    border: 2px dashed #ccc;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.drop-area.highlight {
+    border-color: #000;
+}

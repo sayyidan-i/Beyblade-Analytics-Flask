@@ -1,0 +1,20 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# Optimized YOLO tracker settings for BoT-SORT tracker for fast-moving Beyblades
+
+tracker_type: botsort  # ['botsort', 'bytetrack'], BoT-SORT is preferred for more complex motion
+track_high_thresh: 0.1  # Lowered threshold for first association to better handle rapid movements
+track_low_thresh: 0.05  # Lowered second association threshold to track Beyblades even when they slow down or move erratically
+new_track_thresh: 0.5  # A slightly relaxed threshold to initialize new tracks in case of fast object appearances
+track_buffer: 20  # Shorter buffer to ensure faster removal and re-association of Beyblade tracks
+match_thresh: 0.5  # A slightly reduced matching threshold to allow for quicker updates when Beyblades move fast
+fuse_score: True  # Fuse confidence scores with IOU for robust tracking under fast motion
+
+# BoT-SORT settings
+gmc_method: sparseOptFlow  # Keep sparseOptFlow for handling fast and erratic motion of Beyblades
+proximity_thresh: 0.8  # Slightly increase the proximity threshold to capture fast-moving objects in close proximity
+appearance_thresh: 0.1  # Slightly lowered to balance re-identification with fast-moving objects
+with_reid: True
+
+# Additional considerations for small objects and fast motion
+min_box_area: 5  # Set to a smaller box area since Beyblades can be small in the video frame
+max_age: 15  # Max age to keep tracks alive for fast re-identification after temporary occlusions

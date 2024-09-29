@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Upload Video</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Beyblade Battle Video</h1>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept="video/mp4" required>
+            <button type="submit">Upload</button>
+        </form>
+        <p>Or drag and drop your file here:</p>
+        <div class="drop-area" id="drop-area">
+            <p>Drop video file here</p>
+        </div>
+    </div>
+    <script>
+        // Drag and drop functionality
+        let dropArea = document.getElementById('drop-area');
+
+        dropArea.addEventListener('dragover', (event) => {
+            event.preventDefault();
+            dropArea.classList.add('highlight');
+        });
+
+        dropArea.addEventListener('dragleave', () => {
+            dropArea.classList.remove('highlight');
+        });
+
+        dropArea.addEventListener('drop', (event) => {
+            event.preventDefault();
+            dropArea.classList.remove('highlight');
+            let files = event.dataTransfer.files;
+            if (files.length > 0) {
+                document.querySelector('input[type="file"]').files = files;
+            }
+        });
+    </script>
+</body>
+</html>
