@@ -136,7 +136,7 @@ def has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps):
         # Calculate the mean flow in the bounding box
         mean_flow = np.mean(flow_region, axis=(0, 1))
         flow_magnitude = np.linalg.norm(mean_flow)
-        print(flow_magnitude)
+        #print(flow_magnitude)
 
         # Identify Beyblade type based on detection
         beyblade_type = results[0].names[i]
