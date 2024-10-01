@@ -86,8 +86,10 @@ def detect_collisions(bboxes):
         bboxes: List of bounding boxes.
     """
     global collision_count, collision_active
+    
     if len(bboxes) < 2:
         return
+    
     center1 = calculate_center(bboxes[0])
     center2 = calculate_center(bboxes[1])
     distance = np.linalg.norm(center1 - center2)
@@ -101,9 +103,76 @@ def detect_collisions(bboxes):
         
     return False # no collision
 
-
-def has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps):
+def has_beyblade_stopped(results, bboxes, frame_count, fps):
     """
+    Check if any of the Beyblades has stopped.
+
+    If a center of a Beyblade only moves a small distance less than DISTANCE_THRESHOLD for STOP_THRESHOLD frames
+    AND
+    To ensure the Beyblade is not spinning in place, we also check the aspect ratio of the bounding box.
+    If the aspect ratio of the bounding box is not within 0.85 and 1.2 for STOP_THRESHOLD frames,
+    it is considered stopped.
+    
+    Args:
+        results: Detected objects with names (list).
+        bboxes: List of bounding boxes for each detected object.
+        frame_count: Current frame count.
+        fps: Frames per second of the video.
+    """
+    global loser_frame, winner_frame
+    
+    for i, bbox in enumerate(bboxes):
+        # Calculate the center of the bounding box
+        center = calculate_center(bbox)
+        
+        # Check distance moved by the Beyblade center
+        if previous_centers[i] is not None:
+            distance = np.linalg.norm(center - previous_centers[i])
+            #print(f"Distance moved by Beyblade {i}: {distance}")
+            if distance < DISTANCE_THRESHOLD:
+                distance_count_frames[i] += 1
+            else:
+                distance_count_frames[i] = 0
+                
+        previous_centers[i] = center
+        
+        # Calculate the aspect ratio of the bounding box
+        x1, y1, x2, y2 = map(int, bbox)
+        width, height = x2 - x1, y2 - y1
+        aspect_ratio = width / height
+
+        # Identify Beyblade type based on detection
+        beyblade_type = results[0].names[i]
+        beyblade_idx = 0 if beyblade_type == battle_data["type1"] else 1
+        
+        
+        # Determine if the Beyblade has stopped
+        if (
+            distance_count_frames[beyblade_idx] >= STOP_THRESHOLD
+            ):
+            
+            if (stopped_index[0] is not None and stopped_index[1] is None and beyblade_type == battle_data["winner"] ): # for winner beyblade
+                print(f"Winner beyblade {beyblade_type} stopped spinning.")
+                stopped_index[1] = beyblade_idx
+                winner_frame = frame_count - STOP_THRESHOLD
+                battle_data["winner_spinning_time"] = winner_frame / fps
+                status[beyblade_idx] = "Stopped"
+            
+            if stopped_index[0] is None and battle_data["game_over_time"] is None:  # for loser beyblade
+                print(f"Loser beyblade {beyblade_type} stopped spinning.")
+                stopped_index[0] = beyblade_idx
+                loser_frame = frame_count - STOP_THRESHOLD
+                battle_data["winner"] = battle_data["type1"] if beyblade_idx == 1 else battle_data["type2"]
+                battle_data["win_reason"] = "Opponent stopped spinning"
+                battle_data["game_over_time"] = loser_frame / fps
+                status[beyblade_idx] = "Stopped"
+    
+    return status
+    
+"""
+def has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps):
+    
+    '''
     Check if any of the Beyblades has stopped using optical flow.
 
     If the average motion of the Beyblade is below a certain threshold for STOP_THRESHOLD frames,
@@ -116,7 +185,7 @@ def has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps):
         bboxes: List of bounding boxes for each detected object.
         frame_count: Current frame count.
         fps: Frames per second of the video.
-    """
+    '''
     global loser_frame, winner_frame
     
 
@@ -126,9 +195,7 @@ def has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps):
     flow = cv2.calcOpticalFlowFarneback(prev_frame, gray, None, 0.5, 3, 15, 3, 5, 1.2, 0)
 
     for i, bbox in enumerate(bboxes):
-        # Calculate the center of the bounding box
-        center = calculate_center(bbox)
-        
+               
         # Calculate the average flow vector for the bounding box
         x1, y1, x2, y2 = map(int, bbox)
         flow_region = flow[y1:y2, x1:x2]
@@ -136,13 +203,14 @@ def has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps):
         # Calculate the mean flow in the bounding box
         mean_flow = np.mean(flow_region, axis=(0, 1))
         flow_magnitude = np.linalg.norm(mean_flow)
-        #print(flow_magnitude)
+        
 
         # Identify Beyblade type based on detection
         beyblade_type = results[0].names[i]
         #print(f"Beyblade type {i}: {beyblade_type}")
         beyblade_idx = 0 if beyblade_type == battle_data["type1"] else 1
         
+        print(f"{beyblade_type} : {flow_magnitude}")
         # Check if the flow magnitude is below the stopping threshold
         if flow_magnitude < FLOW_MAGNITUDE:
             distance_count_frames[beyblade_idx] += 1
@@ -162,12 +230,14 @@ def has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps):
                 print(f"Loser beyblade {beyblade_type} stopped spinning.")
                 stopped_index[0] = beyblade_idx
                 loser_frame = frame_count - STOP_THRESHOLD
-                battle_data["winner"] = battle_data["type1"] if beyblade_idx == 0 else battle_data["type2"]
+                battle_data["winner"] = battle_data["type1"] if beyblade_idx == 1 else battle_data["type2"]
                 battle_data["win_reason"] = "Opponent stopped spinning"
                 battle_data["game_over_time"] = loser_frame / fps
                 status[beyblade_idx] = "Stopped"
     
     return status
+    
+"""
 
 
 
@@ -321,7 +391,8 @@ def process_video(video_path):
         beyblade_positions = [calculate_center(bboxes[i]) for i in range(len(bboxes))]
         collision_status = detect_collisions(bboxes)
         has_beyblade_out_of_arena(results, bboxes, frame_count, fps)
-        beyblade_status = has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps)
+        beyblade_status = has_beyblade_stopped(results, bboxes, frame_count, fps)
+        #beyblade_status = has_beyblade_stopped(frame, prev_frame, results, bboxes, frame_count, fps)
 
         # Update battle log
         battle_log["frame"].append(frame_count)
